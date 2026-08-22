@@ -6,170 +6,170 @@
       "title": "openai/codex",
       "url": "https://github.com/openai/codex",
       "excerpt": "Lightweight coding agent that runs in your terminal",
-      "meta": "Rust · ★ 112,367 · 🍴 17,281 · 📈 4,159 stars today",
+      "meta": "Rust · ★ 112,528 · 🍴 17,295 · 📈 4,159 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenAI 推出的轻量级编码智能体，直接运行在终端。它能理解代码库，帮助开发者执行日常编程任务、解释复杂代码和处理版本控制操作，提升编码效率。适合习惯命令行工作流的程序员。"
+      "summary": "OpenAI 发布的轻量级编程代理，在终端中运行，能理解整个代码库，自动完成测试编写、Bug 修复、Git 操作等开发任务，适合用自然语言指挥 AI 写代码的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
-      "meta": "Shell · ★ 231,131 · 🍴 19,741 · 📈 2,684 stars today",
+      "meta": "Shell · ★ 231,261 · 🍴 19,748 · 📈 2,684 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "来自资深开发者实践的一套智能体技能文件，存放于 .agents 目录，供编码智能体使用。包含真实工程场景下的可复用技能，帮助 AI 助手更准确地处理开发任务。"
+      "summary": "来自 Matt Pocock 的 AI 代理技能集，直接取自其 .agents 目录，包含面向真实工程师的提示词、工作流和最佳实践，用于增强 Claude Code 等编码代理的能力。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 242,020 · 🍴 36,686 · 📈 357 stars today",
+      "meta": "JavaScript · ★ 242,041 · 🍴 36,687 · 📈 357 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 Claude Code、Codex、Opencode、Cursor 等编码智能体的性能优化系统，集技能、直觉、记忆、安全与研究优先开发于一体，用于提升智能体框架的整体表现和可靠性。"
+      "summary": "ECC 是代理框架性能优化系统，为 Claude Code、Codex、OpenCode、Cursor 等工具提供技能、记忆、安全与研究导向的开发能力，帮助代理更智能、更高效地运行。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 275,968 · 🍴 24,680 · 📈 592 stars today",
+      "meta": "Shell · ★ 275,998 · 🍴 24,681 · 📈 592 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套智能体技能框架兼软件开发方法论，强调可工作的实践。通过为 AI 编程代理定义结构化技能和工作流，帮助团队更系统地使用智能体构建和维护软件。"
+      "summary": "Superpowers 是一套智能体技能框架与软件开发方法论，提供可靠的提示词和流程，帮助 AI 代理在复杂工程任务中表现出色，适合深度使用 AI 编码工具的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "Wei-Shaw/sub2api",
       "url": "https://github.com/Wei-Shaw/sub2api",
       "excerpt": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "meta": "Go · ★ 38,700 · 🍴 8,028 · 📈 673 stars today",
+      "meta": "Go · ★ 38,721 · 🍴 8,030 · 📈 673 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一站式开源 API 中转服务，可将 Claude、OpenAI、Gemini、Grok 等订阅统一接入同一接口，支持拼车共享、分摊成本，原生工具可无缝使用。适合多模型订阅用户和团队。"
+      "summary": "Sub2API 是一站式开源中转服务，将 Claude、OpenAI、Gemini、Grok 订阅统一转换为 API，支持拼车共享以分摊成本，让原生工具直接接入，方便多用户共用订阅。"
     },
     {
       "sourceId": "github-trending",
       "title": "makeplane/plane",
       "url": "https://github.com/makeplane/plane",
       "excerpt": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "meta": "TypeScript · ★ 57,082 · 🍴 5,432 · 📈 263 stars today",
+      "meta": "TypeScript · ★ 57,102 · 🍴 5,434 · 📈 263 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的现代项目管理平台，可替代 Jira、Linear、Monday 和 ClickUp。支持任务、迭代（sprint）、文档和工单分诊，适合需要灵活协作与自定义工作流的团队。"
+      "summary": "Plane 是开源的项目管理平台，对标 Jira、Linear、Monday 和 ClickUp，支持任务、迭代、文档、问题分类管理，适合需要自托管或追求开源的研发团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "excerpt": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "meta": "TypeScript · ★ 201,630 · 🍴 60,291 · 📈 193 stars today",
+      "meta": "TypeScript · ★ 201,653 · 🍴 60,292 · 📈 193 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "公平许可（fair-code）的工作流自动化平台，内置原生 AI 能力。支持可视化编排与自定义代码，可自托管或使用云服务，对接 400+ 应用，适合构建自动化流程与 AI Agent。"
+      "summary": "n8n 是一个可自托管的公平代码工作流自动化平台，原生集成 AI 能力，支持可视化编辑与自定义代码，提供 400+ 集成节点，适用于构建自动化流程和 AI Agent。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "excerpt": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "meta": "Python · ★ 142,386 · 🍴 22,828 · 📈 141 stars today",
+      "meta": "Python · ★ 142,405 · 🍴 22,829 · 📈 141 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Anthropic 推出的代理式编码工具，运行在终端中，能理解整个代码库。可自动执行例行任务、解释复杂代码、处理 Git 工作流，帮助开发者显著加快编码速度。"
+      "summary": "Claude Code 是 Anthropic 推出的终端 AI 编程代理，能理解代码库，自动执行常规任务、解释复杂代码、处理 Git 工作流，帮助开发者大幅提升编码效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "excerpt": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "meta": "Rust · ★ 13,512 · 🍴 363 · 📈 959 stars today",
+      "meta": "Rust · ★ 13,548 · 🍴 365 · 📈 959 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用 Rust 编写的本地优先罗技外设配置工具，作为 Logitech Options+ 的开源替代。通过 HID++ 协议重映射按钮、调整 DPI 和 SmartShift，无需账户、无遥测，适合注重隐私的用户。"
+      "summary": "OpenLogi 是 Rust 编写的罗技 Options+ 替代品，本地优先、无需账号和遥测，通过 HID++ 协议重映射按键、调整 DPI 和 SmartShift，适合追求隐私和轻量化的罗技用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "modular/modular",
       "url": "https://github.com/modular/modular",
       "excerpt": "The Modular Platform (includes MAX & Mojo)",
-      "meta": "Mojo · ★ 28,782 · 🍴 3,063 · 📈 395 stars today",
+      "meta": "Mojo · ★ 28,788 · 🍴 3,063 · 📈 395 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Modular 公司推出的综合 AI 平台，包含 MAX 与 Mojo。MAX 用于高性能 AI 推理，Mojo 是面向 AI 开发者的编程语言，旨在简化 AI 应用从开发到部署的全流程。"
+      "summary": "Modular 平台整合了 MAX 和 Mojo 语言，提供高性能 AI 基础设施，Mojo 超集 Python 以提升执行效率，适合需要极致性能和可扩展 AI 部署的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "excerpt": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "meta": "★ 205,081 · 🍴 21,001 · 📈 589 stars today",
+      "meta": "★ 205,114 · 🍴 21,001 · 📈 589 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个旨在改进 Claude Code 行为的 CLAUDE.md 文件，内容源自 Andrej Karpathy 对 LLM 编程常见陷阱的观察。通过提供针对性指令，帮助模型规避错误，适合使用 Claude Code 的开发者参考。"
+      "summary": "根据 Andrej Karpathy 对 LLM 编码陷阱的观察整理成的单个 CLAUDE.md 文件，用于改进 Claude Code 的行为，避免常见错误，提升 AI 编码的准确性和可靠性。"
     },
     {
       "sourceId": "github-trending",
       "title": "mahlernim/google-timeline-visualizer",
       "url": "https://github.com/mahlernim/google-timeline-visualizer",
       "excerpt": "Visualize your year in travel using your Google Location History (Timeline) data",
-      "meta": "Kotlin · ★ 2,479 · 🍴 287 · 📈 441 stars today",
+      "meta": "Kotlin · ★ 2,489 · 🍴 289 · 📈 441 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个旅行数据可视化工具，利用 Google 位置历史（Timeline）数据，将你全年的出行轨迹以地图等形式呈现。适合希望回顾年度足迹、分析个人旅行记录的用户。"
+      "summary": "利用 Google 位置历史（Timeline）数据，将一年的旅行足迹可视化呈现，生成出行地图和统计，适合想回顾年度行程、喜欢数据可视化的个人用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "excerpt": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "meta": "HTML · ★ 133,679 · 🍴 14,014 · 📈 915 stars today",
+      "meta": "HTML · ★ 133,717 · 🍴 14,019 · 📈 915 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一份持续更新的免费服务清单，收录提供免费套餐的 SaaS、PaaS 和 IaaS 产品，面向 DevOps 和基础设施开发者。便于快速找到可免费使用的云资源、工具和平台，降低开发成本。"
+      "summary": "收集了大量对 DevOps 和基础设施开发者有用的免费服务清单，涵盖 SaaS、PaaS、IaaS 的免费层级，适合寻找成本友好工具的开发者和独立开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/TypeScript",
       "url": "https://github.com/microsoft/TypeScript",
       "excerpt": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "meta": "Go · ★ 110,468 · 🍴 13,747 · 📈 65 stars today",
+      "meta": "Go · ★ 110,477 · 🍴 13,747 · 📈 65 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "微软推出的 JavaScript 超集语言，在兼容 JS 生态的同时加入静态类型检查，编译后输出干净的 JavaScript 代码。适合大型前端和 Node.js 项目，提高代码可维护性与可扩展性。"
+      "summary": "TypeScript 是 JavaScript 的超集，编译为干净的 JavaScript，提供静态类型检查和现代语法，广泛用于大型前端项目，提升代码可维护性和开发效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "excerpt": "Cursor plugin specification and official plugins",
-      "meta": "TypeScript · ★ 4,559 · 🍴 374 · 📈 286 stars today",
+      "meta": "TypeScript · ★ 4,571 · 🍴 375 · 📈 286 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Cursor 官方的插件规范与插件集合，定义了插件开发标准并提供官方示例。开发者可据此扩展 Cursor 编辑器的功能，实现自定义工作流和深度集成。"
+      "summary": "Cursor 编辑器的插件规范与官方插件集合，定义了扩展 Cursor 的方式，开发者可据此构建自定义插件，增强 AI 编辑器的功能和工作流。"
     },
     {
       "sourceId": "github-trending",
       "title": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "excerpt": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all",
-      "meta": "Python · ★ 38,477 · 🍴 3,239 · 📈 288 stars today",
+      "meta": "Python · ★ 38,487 · 🍴 3,239 · 📈 288 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "PostHog 是一个帮助构建“自我驱动”产品的开发者平台，提供 AI 可观测性、分析、会话回放、功能开关、实验、错误跟踪、日志等工具，用于全面采集和理解用户行为。"
+      "summary": "PostHog 是构建自驱型产品的开发者平台，提供 AI 可观测性、产品分析、会话回放、功能开关、实验、错误跟踪和日志等工具，帮助团队快速迭代和数据驱动决策。"
     },
     {
       "sourceId": "github-trending",
       "title": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
       "excerpt": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-      "meta": "Python · ★ 5,381 · 🍴 513 · 📈 161 stars today",
+      "meta": "Python · ★ 5,390 · 🍴 513 · 📈 161 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "腾讯开源的 AI 红队平台，面向 AI 生态做全栈安全检测。支持 Agent 扫描、技能扫描、MCP 扫描、AI 基础设施扫描和 LLM 越狱评估，帮助发现并修复安全漏洞，适合 AI 安全研究人员。"
+      "summary": "腾讯开源的 AI 红队全栈平台，通过 Agent 扫描、技能扫描、MCP 扫描、AI 基础设施扫描和 LLM 越狱评估，全面检测 AI 生态系统安全风险。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -177,15 +177,6 @@
       "url": "https://www.v2ex.com/t/1233928",
       "excerpt": "109 回复 · Linux 节点",
       "publishedAt": "2026-08-12T12:27:12.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "你们开梯子会有反诈中心的电话打来吗",
-      "url": "https://www.v2ex.com/t/1236394",
-      "excerpt": "76 回复 · 程序员 节点",
-      "publishedAt": "2026-08-22T06:49:52.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -202,7 +193,7 @@
       "sourceId": "v2ex-hot",
       "title": "[送码] 做了一个 Apple tv 上的小红书 Rouge",
       "url": "https://www.v2ex.com/t/1236360",
-      "excerpt": "30 回复 · Apple 节点",
+      "excerpt": "31 回复 · Apple 节点",
       "publishedAt": "2026-08-22T02:43:11.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -222,6 +213,15 @@
       "url": "https://www.v2ex.com/t/1228798",
       "excerpt": "22 回复 · Linux 节点",
       "publishedAt": "2026-07-21T05:37:50.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "感觉 Vibe Coding 时代， Windows 系统要凉了",
+      "url": "https://www.v2ex.com/t/1236462",
+      "excerpt": "21 回复 · 程序员 节点",
+      "publishedAt": "2026-08-22T13:31:41.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -299,18 +299,9 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "感觉 Vibe Coding 时代， Windows 系统要凉了",
-      "url": "https://www.v2ex.com/t/1236462",
-      "excerpt": "11 回复 · 程序员 节点",
-      "publishedAt": "2026-08-22T13:31:41.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
       "title": "grok 变得这么傻缺，应该是蒸馏 codex 了",
       "url": "https://www.v2ex.com/t/1236442",
-      "excerpt": "7 回复 · 程序员 节点",
+      "excerpt": "9 回复 · 程序员 节点",
       "publishedAt": "2026-08-22T11:55:37.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -319,7 +310,7 @@
       "sourceId": "v2ex-hot",
       "title": "有没有颈椎病脖子歪的病友分享下治疗经验呢",
       "url": "https://www.v2ex.com/t/1236428",
-      "excerpt": "7 回复 · 程序员 节点",
+      "excerpt": "8 回复 · 程序员 节点",
       "publishedAt": "2026-08-22T09:28:34.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -397,6 +388,15 @@
       "source": "V2EX"
     },
     {
+      "sourceId": "v2ex-hot",
+      "title": "[开源自推]我用 Rust 做了一个约 30 MiB 内存的多入口 AI Agent，已经在线跑了半年",
+      "url": "https://www.v2ex.com/t/1231826",
+      "excerpt": "5 回复 · Rust 节点",
+      "publishedAt": "2026-08-03T11:22:03.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
       "sourceId": "openai-news",
       "title": "Introducing AI Futures",
       "url": "https://openai.com/index/introducing-ai-futures",
@@ -404,7 +404,7 @@
       "publishedAt": "2026-08-20T07:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出新博客「AI Futures」，探讨变革性AI如何重塑权力、治理、经济和个人自由。该博客将聚焦人工智能对权力结构、政府治理、经济发展及个人自由的潜在影响。"
+      "summary": "OpenAI推出新博客AI Futures，探索变革性AI如何重塑权力、治理、经济与个人自由。"
     },
     {
       "sourceId": "openai-news",
@@ -675,7 +675,7 @@
       "publishedAt": "2026-08-21T11:59:48.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "Google DeepMind宣布与游戏工作室合作，基于15年游戏AI研究，从Atari到EVE Online，共同开发突破性AI玩法原型。"
+      "summary": "Google DeepMind宣布与游戏工作室合作，基于从Atari到EVE Online的15年游戏AI研究，打造突破性AI玩法原型。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -946,7 +946,7 @@
       "publishedAt": "2026-08-21T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "本文探讨如何测量语音识别中的基准优化，分析不同评测方法与指标对评估模型真实性能的影响，以更准确地反映技术进步。"
+      "summary": "Hugging Face博客文章探讨如何衡量语音识别中的基准优化。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -956,7 +956,7 @@
       "publishedAt": "2026-08-20T16:52:57.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Liquid AI发布LFM2.5-DSpark，采用稀疏化等优化手段，推理速度较此前最高提升3.2倍，同时保持模型性能，为大规模部署提供更高效方案。"
+      "summary": "Hugging Face博客介绍LFM2.5-DSpark，称其推理速度最高可提升3.2倍。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1219,7 +1219,7 @@
       "meta": "👍 245",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对LLM智能体训练环境静态、无法随智能体能力提升而调整的问题，提出EnvHarness，将静态世界转化为可动态演化的训练环境，无需领域专用流程，持续生成适配智能体能力短板的任务，推动智能体高效学习。"
+      "summary": "针对 LLM agent 依赖静态、手工环境、难以随能力提升而自适应进化的问题，提出 EnvHarness，将静态世界转化为动态训练场，按 agent 当前弱点自动生成挑战，无需领域专用 pipeline，降低环境生成成本，提升 agent 持续学习效果。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1230,7 +1230,7 @@
       "meta": "👍 141",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Zetta ζ，一种高效的闭环具身智能训练框架，使具身智能体在物理执行过程中实时利用反馈调整行为，取代传统开环式“固定技能执行、回合结束后反思”的模式，实现自我进化的物理智能，缩小端到端策略模型的差距。"
+      "summary": "现有具身 agent 训练框架在物理执行中呈开环：rollout 用固定技能、回合结束后才反思，无法闭环自我进化。提出 Zetta ζ，一种闭环具身训练框架，在物理执行中实时收集反馈并更新策略，推动具身智能体自我演进，缩小端到端策略模型留下的差距。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1241,7 +1241,7 @@
       "meta": "👍 115",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "面向可编程逻辑控制器（PLC）代码生成，提出SemaPLC智能体框架，以实际PLC项目为背景并通过验证门控，保证生成的程序组织单元（POU）能集成进现有项目并正确运行，弥补以往仅做有限集成测试的不足。"
+      "summary": "PLC 代码生成中，LLM 虽能生成独立程序组织单元（POU），但能否集成进现有 PLC 工程并正确运行缺乏系统验证。提出 SemaPLC，一种基于工程语义、带验证门控的 agent 框架，在生成后验证集成与运行正确性，提高工业代码生成的可靠性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1252,7 +1252,7 @@
       "meta": "👍 111",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对终端智能体训练中任务合成质量低下、指令/环境/参考答案/验证器因假设不一致而失效的问题，提出FACET，在合成时保持源意图与可执行状态一致，生成高质量且可验证的终端任务，提供可扩展的执行监督。"
+      "summary": "终端 agent 训练需要可扩展的可执行监督，但合成高质量终端任务很难：指令、环境初始化、参考解、可执行验证器需保持一致。提出 FACET，在任务合成中保留源意图与可执行状态，生成四要素自洽的终端任务，为终端 agent 提供可靠训练数据。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1263,7 +1263,7 @@
       "meta": "👍 91",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Co-RL，利用多智能体强化学习中的多样化智能体群体，使无监督推理能力自然涌现，摆脱对可验证奖励等人工标注的依赖，降低代价高昂的监督需求，提升语言与视觉-语言模型的推理表现。"
+      "summary": "针对 RL 提升推理依赖可验证奖励等强监督、标注成本高的问题，提出 Co-RL 多智能体强化学习方法，利用多样化智能体 cohort 在无监督条件下相互作用，使推理能力自然涌现，减少对地面真值监督的依赖。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1274,7 +1274,7 @@
       "meta": "👍 88",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出OmniScientist，一个全模态、全学科的AI科学家，在假设生成、代码执行和论文撰写等全流程基础上，进一步整合多模态实验证据，弥补工作流覆盖无法提供完整证据的缺陷，支撑更可靠的科学发现。"
+      "summary": "现有 AI 科学家注重覆盖研究流程，但无法获取支撑科学发现所需的完整证据。提出 OmniScientist，一个全模态、全学科的 AI 科学家框架，扩展证据获取能力，覆盖假设生成、代码执行到论文撰写，实现更完整的自动化科研。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1285,7 +1285,7 @@
       "meta": "👍 58",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出SWE-bench Science基准，评估编码智能体解决科学领域工程任务的能力，强调科学软件故障会损害研究结论的证据基础，弥补现有代码智能体评测只重视总体任务成功率、忽视科学场景的不足。"
+      "summary": "科学代码故障会危及研究证据，而现有编码 agent 评测只看总体任务成功率。提出 SWE-bench Science 基准，聚焦科研工程任务，检验编码 agent 能否解决会影响科学结论的代码问题，推动 agent 在科学场景中的可靠应用。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1296,7 +1296,7 @@
       "meta": "👍 47",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出SPADE（自适应合成可执行环境中的自博弈），通过自博弈持续生成多样、自适应的可执行目标，突破现有训练环境池目标分布固定的局限，使语言智能体在持续扩展的目标中实现自我改进。"
+      "summary": "针对语言 agent 训练环境池目标分布固定、无法随学习规模扩大而自适应进化的问题，提出 SPADE，采用自我博弈在自适应合成可执行环境中持续生成多样化目标，实现训练分布动态扩展，支持 agent 持续自我改进。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1307,7 +1307,7 @@
       "meta": "👍 32",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对单步逆合成任务的一对多特性被单一答案评测掩盖的问题，提出Top-K prompting训练与推理范式，训练具备化学合理性的LLM，使其生成多个合理候选产物，更贴合计算机辅助合成规划的实际情况。"
+      "summary": "单步逆合成具有一对多特性，现有单答案评测无法刻画。提出 Top-K prompting 训练与推理范式，结合化学合理性感知，让 LLM 生成并排序多个可行逆合成方案，更贴近实际合成规划需求。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1318,7 +1318,7 @@
       "meta": "👍 31",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出MemTrapBench基准，专门评测LLM记忆使用中的认知陷阱，关注检索到的记忆如何影响后续推理，弥补现有基准只验证信息提取、存储与检索、忽视记忆对决策影响的不足。"
+      "summary": "现有 LLM 记忆评测只关注信息抽取、存储与检索是否准确，忽略检索到的记忆如何误导推理。提出 MemTrapBench 基准，系统评测 LLM 在使用记忆时落入认知陷阱的倾向，揭示记忆与推理交互中的可靠性问题。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1329,7 +1329,7 @@
       "meta": "👍 29",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对Agent Skills缺乏从实际交互失败中改进的闭环、现有方法仅利用单轮问答反馈的问题，提出SkillEvo，从多轮交互反馈中提取自我更新的演化梯度，使技能持续进化并减少重复犯错。"
+      "summary": "Agent Skill 多由人工编写或单次生成，缺乏从交互失败中改进的闭环；现有方法只从单轮问答中获取反馈。提出 SkillEvo，利用多轮交互反馈生成自我更新的演化梯度，使技能库在实际使用错误中持续进化。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1340,7 +1340,7 @@
       "meta": "👍 17",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对现有代码生成系统依赖预定义仓库架构、无法从零构建整个项目的问题，提出Repo0，以设计驱动的零到全量代码生成框架，直接从自然语言需求生成完整软件项目，突破预设架构限制。"
+      "summary": "现有代码生成 agent 大多假设仓库架构已定义，无法应对从自然语言直接构建完整软件项目的零到全场景。提出 Repo0，采用设计驱动的生成方式，先确定架构再逐层生成代码，实现从零构建整个软件项目。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1351,7 +1351,7 @@
       "meta": "👍 17",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出AdaPop自适应流行度遗忘方法，针对高频事实在预训练中记忆更深、更难删除的问题，结合局部token置信度与训练数据频率，对不同流行度的知识施加差异化遗忘压力，提升LLM遗忘效果。"
+      "summary": "热门事实在预训练中记忆更深、更难遗忘，而现有 LLM 遗忘方法对所有训练数据施加统一梯度压力。提出 AdaPop 自适应流行度方法，结合局部 token 置信度与数据频率调整遗忘强度，提升对热门知识的删除效果，同时保留模型能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1362,7 +1362,7 @@
       "meta": "👍 16",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "研究循环语言模型（Looped LM）在组合式工具调用中的表现，针对需协调多个API调用、维护中间状态的任务，发现循环结构能增强工具组合与状态保持能力，拓展其从推理基准到智能体工具使用的应用。"
+      "summary": "循环语言模型在推理上表现好，但 agentic 工具调用潜力未知。研究其在组合式工具调用中的能力：需要协调多个 API 调用、维护中间状态并保持一致性。发现 looped LM 能改善组合工具调用的成功率与鲁棒性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1373,7 +1373,7 @@
       "meta": "👍 16",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出FM-Bench（足球管理基准），评测语言智能体在长时程、多智能体竞争环境中的持续决策能力，关注动作的累积后果与环境响应，弥补现有评测只覆盖有界任务、未测长期管理的空白。"
+      "summary": "语言模型 agent 能可靠执行有界任务，但长期决策能力缺乏评测。提出 FM-Bench（足球管理基准），模拟具有累积后果和竞争性 agent 响应的长时程管理环境，衡量 LLM 在长期视野下的持续决策与策略调整能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1384,7 +1384,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对JEPA式潜在世界模型中，目标潜变量欧氏距离作为MPC代价时不一定按真实任务进度排序动作序列的问题，提出决策-度量对齐的诊断方法及动作条件目标函数，提升潜在世界模型在模型预测控制中的规划质量。"
+      "summary": "JEPA 式潜空间世界模型常用到目标潜变量的欧氏距离作为 MPC 代价，但任务变量解码好不代表该代价能按真实任务进度排序动作序列。定义 decision-metric alignment 性质，提出诊断方法与动作条件目标，提升 MPC 规划与任务进展的一致性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1395,7 +1395,7 @@
       "meta": "👍 14",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出FlashPrefill V2，面向长上下文LLM服务中计算密集的prefill阶段，采用块稀疏预填充注意力，在保持模式发现能力的同时进一步降低注意力二次复杂度，显著减少预填充开销，提升长上下文推理效率。"
+      "summary": "长上下文 LLM 推理中，prefill 阶段注意力二次复杂度是瓶颈。在 FlashPrefill 基础上提出 V2，采用块稀疏 prefill 注意力机制，以更低计算代价处理长序列，进一步提升长上下文服务吞吐与效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1405,8 +1405,7 @@
       "publishedAt": "2026-08-14T00:00:00.000Z",
       "meta": "👍 14",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出属性引导的体裁扩展框架，突破创意写作数据以故事为中心的局限，依据结构、功能等属性生成多样化创意体裁数据，扩展LLM在非故事类创意写作上的训练规模与体裁遵循能力。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1416,8 +1415,7 @@
       "publishedAt": "2026-08-18T13:09:03.000Z",
       "meta": "👍 13",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "对三个前沿MoE模型（Alibaba、OpenAI、NVIDIA，3.6-4.0B激活参数）进行低资源语言推理微调，发现准确率基准几乎无变化且对随机种子敏感，无法看出SFT与RL的实际差异，揭示以准确率评估此类任务的盲区。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1427,8 +1425,7 @@
       "publishedAt": "2026-08-19T00:00:00.000Z",
       "meta": "👍 11",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出VA-Judger，基于人类偏好反馈为联合视频-音频生成建模奖励，替代传统将音频质量、视觉保真度、同步性等指标简单相加的方式，为RL后训练提供更贴近感知的奖励信号。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1538,7 +1535,7 @@
       "publishedAt": "2026-08-21T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "本周AI动态亮点：ChatGPT正式接入Apple Messages，Anthropic推出会议记录器，Mistral上线智能体搜索功能。多项更新聚焦端侧集成与自动化。"
+      "summary": "TLDR AI本期摘要：ChatGPT接入苹果Messages，Anthropic推出会议记录工具，Mistral发布智能体搜索功能。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1719,7 +1716,7 @@
       "publishedAt": "2026-08-21T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "神秘模型Ox Alpha现身，展现出强大的编码与智能体性能，可能为智谱/GLM系列（如GLM-5.3 Vision）模型。分析师认为其提升源于后训练与基础设施改进，而非单纯规模，基座约743B。"
+      "summary": "神秘模型Ox Alpha以强大编码与智能体性能现身，推测为智谱GLM家族（如GLM-5.3 Vision）。分析师基于743B基础模型判断，其提升来自后训练与基础设施改进，而非单纯参数规模。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1729,7 +1726,7 @@
       "publishedAt": "2026-08-20T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "OpenAI和Anthropic扩展智能体平台，新增桌面功能、协作编辑及可组合API（如Skills和Files API）。OpenAI在欧洲经济区、英国和瑞士推出记忆与工作流功能。AT&T披露40%员工使用相关工具。"
+      "summary": "OpenAI与Anthropic扩展智能体平台，新增桌面功能、协作编辑及Skills、Files API等可组合API；OpenAI在EEA、英国和瑞士推出记忆与工作流功能；AT&T披露其40%员工已使用AI。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1991,7 +1988,7 @@
       "publishedAt": "2026-08-22T07:36:00.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "模拟技术正逐渐取代传统方式，性能仅下降10%，但成本降低100倍、速度提升10000倍。文章探讨这一趋势背后的原因，认为模拟将成为主导范式。"
+      "summary": "本文探讨模拟技术正如何占据主导：模型性能仅下降10%，但成本降低100倍、速度提升10000倍，并指出递归自我改进并未止步于模型训练阶段。"
     },
     {
       "sourceId": "latent-space",
@@ -2001,7 +1998,7 @@
       "publishedAt": "2026-08-22T07:30:52.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "文章探讨代理工具（Agent Harness）的演变。模型不断将工具吸收进自身权重，未来该工具或许不再服务于模型，而成为人类注意力的辅助工具。"
+      "summary": "文章讨论代理框架的演进：模型不断将外部框架吸收进自身权重，未来该框架或将服务于人类注意力，而非仅为模型服务。"
     },
     {
       "sourceId": "latent-space",
@@ -2011,7 +2008,7 @@
       "publishedAt": "2026-08-21T23:37:38.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Simile AI首席执行官Joon Sung Park分享其从爆款Generative Agents到为每个在世者创造80亿数字孪生的历程，并解释为何这一探索从趣味研究变为严肃商业。"
+      "summary": "Simile AI首席执行官Joon Sung Park讲述从爆款项目Generative Agents到为全球80亿人创建数字孪生的历程，并解释该方向已从趣味探索转变为严肃商业。"
     },
     {
       "sourceId": "latent-space",
@@ -2021,7 +2018,7 @@
       "publishedAt": "2026-08-21T05:45:21.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Poolside以120亿美元被英伟达以反向“高管收购”方式纳入，创始人留任获10亿美元，员工获得60亿美元，Infraco新云规模扩展至7GW。"
+      "summary": "据AINews，Poolside以120亿美元被英伟达反向高管收购，创始人留任获10亿美元，员工获60亿美元，Infraco新云规模扩展至7GW。"
     },
     {
       "sourceId": "latent-space",
@@ -2031,7 +2028,7 @@
       "publishedAt": "2026-08-20T20:59:09.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Matt Pocock介绍了其/wayfinder技能，该技能专为全新项目或前景不明时设计，旨在帮助用户穿越规划过程中的“战争迷雾”，明确行动方向。"
+      "summary": "Matt Pocock介绍其/wayfinder技能，用于全新项目或方向不明时，应对规划中的“战争迷雾”。"
     },
     {
       "sourceId": "latent-space",
@@ -2041,7 +2038,7 @@
       "publishedAt": "2026-08-20T05:17:12.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Z.ai首席执行官唐杰（Jie Tang）谈论GLM 5.3与新的后训练扩展定律，提出「参数之死」观点，强调后训练的重要性。"
+      "summary": "Z.ai首席执行官唐杰（Jie Tang）谈GLM 5.3及新的后训练扩展法则，称参数规模时代已结束。"
     },
     {
       "sourceId": "latent-space",
@@ -2177,7 +2174,7 @@
       "publishedAt": "2026-08-20T15:42:39.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "文章认为围绕AI意识的争论是个陷阱。当前“失控AI”“流氓代理”等修辞让人以为AI代理已觉醒并对创造者不满。Demis Hassabis、Dario Amodei、Sam Altman等科技领袖正推动相关监管。"
+      "summary": "MIT Tech Review文章认为AI意识之争是个陷阱：当前“失控”“叛逆智能体”等修辞让人误以为AI已觉醒并对创造者愤怒，Demis Hassabis、Dario Amodei、Sam Altman等领袖正推动监管。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2187,7 +2184,7 @@
       "publishedAt": "2026-08-20T09:47:22.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "文章探讨航空公司利用市场模型解锁隐藏收入流。以每日成千上万乘客和数百航班为例，多程中转票价需考虑数百个变量来定价。"
+      "summary": "文章探讨用市场模型解锁隐藏收入流。以航空公司为例，其每天运送数万名乘客、运营数百航班，联程航线需考虑数百个变量为每段行程定价。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2270,7 +2267,7 @@
       "category": "tech",
       "meta": "@gabepereyra · 11.4K 粉丝 · 616.8K 阅 · 507 赞 · 99 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Harvey 研究团队发布 post-training 工作更新：过去六个月的研究议程集中在两大目标上，重点是构建前沿法律智能（frontier legal intelligence）。团队由多人联合署名，公开了模型训练后优化方向的最新进展。"
+      "summary": "Harvey 研究团队发布 post-training 工作更新：过去半年研究议程聚焦两大目标，首发是构建前沿法律智能（frontier legal intelligence），旨在用后训练技术提升法律领域模型能力，多位作者联合署名。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2281,7 +2278,7 @@
       "category": "tech",
       "meta": "@RayFernando1337 · 37.8K 粉丝 · 169.9K 阅 · 520 赞 · 85 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "把 Grok Bot 变成 CTO：新建项目时创建一个 bot 并给它设定 CTO prompt，让它全权负责新想法、bug 修复等一切项目事务。作者表示自己不再是项目瓶颈，相当于让 AI 代理承担技术决策者角色，项目推进不再依赖本人。"
+      "summary": "作者分享把 Grok Bot 变成自家 CTO 的 prompt 玩法：新建项目时创建 bot 并赋予特定提示词，让它负责新想法、bug 修复等一切项目事务，自己不再是瓶颈。附可复制的 CTO prompt。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2292,7 +2289,7 @@
       "category": "tech",
       "meta": "@heynavtoor · 149.3K 粉丝 · 161.9K 阅 · 550 赞 · 93 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "这篇教程讲如何正确设置 Grokbot，让它在 2026 年替你自动运营业务、你安心睡觉。马斯克亲自推荐：有用户用它替代了 1 万美元的 Mac Mini 本地 AI，成本大幅降低；Gavin Baker 称自己的 AI 使用量提升约 100 倍。"
+      "summary": "马斯克公开推荐 Grokbot，源于重度用户用它替换了 1 万美元 Mac Mini 本地 AI 方案；Gavin Baker 称其 AI 使用量提升 100 倍。作者由此给出 2026 年正确配置 Grokbot、让它在你睡觉时自动运营业务的完整方法。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2303,7 +2300,7 @@
       "category": "tech",
       "meta": "@dzhng · 13.3K 粉丝 · 137.6K 阅 · 502 赞 · 48 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI 生成代码的速度已远超人类审查能力，现代代码库正被 AI slop 淹没。作者提出用软件工厂（software factories）模式重构开发流程，在规模化产出代码的同时保证没有 slop，是对 AI 低质量代码问题的系统解法。"
+      "summary": "当下代码产出速度已远超人类审查能力，AI 生成的低质量「slop」正在失控。作者提出构建软件工厂（software factory）的思路，探索在规模化生成代码的同时过滤 slop、保证可维护性。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2314,7 +2311,7 @@
       "category": "tech",
       "meta": "@SlackHQ · 434.3K 粉丝 · 86.9K 阅 · 512 赞 · 44 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Slack 发布 Slack Code，把 agentic coding 变成真正的多人协作：通过 code channels 将开发从私人标签页中解放，让团队和 agent 一起在公开频道里编写、审查、交付代码。这是 Slack 将 AI agent 纳入软件开发生命周期的尝试，强调代码协作透明化。"
+      "summary": "Slack 正式发布 Slack Code，主打「agentic coding 是团队运动」：把软件开发从私有标签页搬到公开代码频道，让团队成员与 AI agent 一起编写、审查、交付代码，agent 成为其中平等的协作方。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2324,7 +2321,8 @@
       "publishedAt": "2026-08-21T16:37:34.000Z",
       "category": "tech",
       "meta": "@AndrewYNg · 1.8M 粉丝 · 62.4K 阅 · 1.2K 赞 · 189 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "吴恩达更新「AI 工程技能地图」：顶级技能包括构建与部署 AI 应用、软件工程基础、使用编码工具等。他强调 AI 工程能力比单一模型更重要，是应用落地的基础。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2334,7 +2332,8 @@
       "publishedAt": "2026-08-20T19:01:14.000Z",
       "category": "tech",
       "meta": "@ID_AA_Carmack · 3.7M 粉丝 · 58.8K 阅 · 577 赞 · 40 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "Carmack 提出关于强化学习「策略翻转（policy churn）」的新理论，并引用论文链接。他对比 epsilon-greedy 经典探索策略——通常选贪心动作、偶尔随机探索——解释该现象产生的机制。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2344,7 +2343,8 @@
       "publishedAt": "2026-08-20T15:59:34.000Z",
       "category": "tech",
       "meta": "@themahis · 4.7K 粉丝 · 43.0K 阅 · 515 赞 · 37 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "研究笔记：Grok Bot 与 Hermes 表面相似，底层押注却完全不同——前者试图把「AI 队友」做成被管理的产品，后者则把 agent 本身变成开放、可组合的运行时。梳理两条路线差异。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2354,7 +2354,8 @@
       "publishedAt": "2026-08-20T01:23:23.000Z",
       "category": "tech",
       "meta": "@GoogleCloudTech · 1.3M 粉丝 · 42.9K 阅 · 506 赞 · 87 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "Google Cloud 分享 5 个长时程（long-horizon）agent harness 设计模式：一次性任务看不出 agent 优劣，要连续工作数天、跨几十次会话才算数。给出让 agent 保持稳定不崩的架构模式。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2364,7 +2365,18 @@
       "publishedAt": "2026-08-20T13:52:08.000Z",
       "category": "tech",
       "meta": "@kmeanskaran · 13.9K 粉丝 · 32.9K 阅 · 518 赞 · 66 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "「Agent 系统设计」系列第一部分：把前沿模型放进设计糟糕的 agent 系统，只会得到更「口齿伶俐」的失败。真正重要的工程几乎都在模型之外，即被称作 scaffolding 的外围支撑结构。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-22/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "excerpt": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Alexis Christoforous, David Gura, and Christina Ruffini as they play and check out the quiz for yourself at Bloomberg.com (Source: Bl",
+      "publishedAt": "2026-08-22T15:06:32.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "彭博推出新闻问答游戏Pointed，在测试玩家新闻知识的同时考察其对答案的信心。主持人Alexis Christoforous、David Gura和Christina Ruffini参与试玩。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2374,7 +2386,7 @@
       "publishedAt": "2026-08-22T14:35:59.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国高校面临长期生源萎缩压力。高中毕业生人数在2025年达到峰值后，预计到2041年将下降13%，对捐赠基金有限的地区性大学造成尤其大的压力。"
+      "summary": "美国大学面临生源持续萎缩。高中毕业生数量在2025年达到峰值后，预计到2041年将减少13%，这对资金有限的地区性大学造成特别压力。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2384,7 +2396,7 @@
       "publishedAt": "2026-08-22T14:23:13.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国准备对伊朗发起新一轮经济施压行动，此前外交努力和数月冲突未能达成持久解决方案。总统特朗普警告各国不要与伊朗保持贸易关系。"
+      "summary": "美国准备对伊朗发起新一轮经济施压。此前外交努力和数月冲突未能达成持久解决方案，总统特朗普警告各国不要与德黑兰保持贸易关系。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2394,7 +2406,7 @@
       "publishedAt": "2026-08-22T14:05:26.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "腊肠犬在全球掀起人气热潮，在美国养犬俱乐部2025年排名中升至第五位，主人青睐其小巧体型和鲜明个性。这股热潮带动了品种聚会、腊肠犬咖啡馆等相关产业。"
+      "summary": "腊肠犬在全球掀起流行热潮，在美国养犬俱乐部2025年排名中升至第五位，主人青睐其体型小巧、个性突出。热潮带动了品种聚会和腊肠犬咖啡馆等业态发展。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2404,7 +2416,7 @@
       "publishedAt": "2026-08-22T14:00:11.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "阿波罗首席经济学家托尔斯滕·斯洛克表示，早期劳动力市场数据显示人工智能的影响首先体现在薪资而非就业。对数百个职业的研究发现，AI接触程度较高的工作薪资增长较慢，而就业层面的影响尚不明显。"
+      "summary": "阿波罗首席经济学家Torsten Slok表示，早期劳动力市场数据表明，AI的初步影响更多体现在工资而非就业上。对数百个职业的研究发现，AI暴露度较高的职业工资增长较为疲弱。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2414,7 +2426,7 @@
       "publishedAt": "2026-08-22T14:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "赌场运营商正在调整策略，将重心从博彩转向体育赛事和餐饮服务，以吸引Z世代年轻顾客，其新使命是“看起来不那么像赌场”。"
+      "summary": "赌场运营商正努力摆脱传统博彩形象，通过增设体育赛事观赛体验和餐饮设施来吸引Z世代客户，新使命是打造看起来不太像赌场的场所。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2424,7 +2436,7 @@
       "publishedAt": "2026-08-22T13:53:30.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "由于加拿大大多数省份将美国酒类下架，2025年3月至12月美国烈酒对加拿大出口下降70%，而对其余地区出口增长2.5%。美国威士忌协会总裁兼首席执行官迈克尔·比莱洛表示，修复贸易关系至关重要。"
+      "summary": "美国对加拿大威士忌出口受贸易争端重创，2025年3月至12月暴跌70%。同期对其他国家出口增长2.5%。美国威士忌协会会长兼CEO Michael Bilello呼吁修复与加拿大的贸易关系。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2434,7 +2446,7 @@
       "publishedAt": "2026-08-22T13:37:16.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "前英国军情六处负责人理查德·迪尔洛夫爵士警告称，应警惕情报工作政治化。他表示英美情报合作依然密切，但对政治化和人事问题表示担忧。"
+      "summary": "英国军情六处前负责人Sir Richard Dearlove警告情报界勿政治化。他表示美英情报合作依然紧密，但对政治化和人事方面的担忧日益加剧。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2444,7 +2456,7 @@
       "publishedAt": "2026-08-22T13:22:41.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美加贸易谈判在最后一刻破裂，美国对加拿大商品征收50%关税，加拿大民众感到沮丧但并不意外。彭博新闻加拿大执行主编德里克·德克洛特对此进行了解释。"
+      "summary": "美加最后一刻谈判破裂，引发美国对加拿大商品征收50%关税。彭博新闻加拿大执行主编Derek Decloet表示，加拿大人感到沮丧但并不意外。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2454,7 +2466,7 @@
       "publishedAt": "2026-08-22T13:15:26.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "据国际文传电讯社援引俄罗斯国家原子能公司首席执行官阿列克谢·利哈乔夫的话报道，该公司正继续将员工送回伊朗布什尔核电站。"
+      "summary": "俄罗斯国家原子能公司Rosatom正继续向伊朗布什尔核电站派遣员工。据国际文传电讯社报道，该公司CEO Alexey Likhachev透露了这一消息。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2464,7 +2476,7 @@
       "publishedAt": "2026-08-22T13:11:59.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "彭博电台“Masters in Business”主持人巴里·里霍尔茨表示，美国财长斯科特·贝森特的债市干预措施或可带来短期缓解，但无法消除持续的通胀压力等根本性问题。"
+      "summary": "债券市场正考验财政部干预的极限。彭博电台Masters in Business主持人Barry Ritholtz表示，财长Scott Bessent的债券市场操作可能带来短期缓解，但无法克服持续的通胀和利率上行压力。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2473,8 +2485,7 @@
       "excerpt": "LinkedIn becoming a dating site, ghost jobs, fun at home, and farmers saying no to data centers: Alexis Christoforous joins David Gura and Christina Ruffini on Bloomberg This Weekend to share headlines from this week that may have gone under the radar. (Source: Bloomberg)",
       "publishedAt": "2026-08-22T12:48:13.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "亚历克西斯·克里斯托福鲁斯在节目中盘点本周可能被忽视的新闻：领英成约会网站、幽灵岗位增多、居家趣味活动，以及农民拒绝数据中心等。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2483,8 +2494,7 @@
       "excerpt": "Chinese AI models are rapidly narrowing the performance gap with US rivals while gaining users with lower prices and open-weight technology that lets companies deploy them locally. Bloomberg News Tech Reporter Luz Ding is on Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffi",
       "publishedAt": "2026-08-22T12:18:06.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "中国人工智能模型正迅速缩小与美国竞争对手的性能差距，并凭借更低价格和开源权重技术（允许企业本地部署）赢得更多用户。彭博新闻科技记者卢兹·丁在节目中对此进行了解读。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2546,15 +2556,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-22/mexico-optimistic-it-can-achieve-lower-us-tariffs-on-cars-steel",
       "excerpt": "Mexico’s top trade negotiator expressed optimism he can secure less burdensome tariff terms from the US on Mexican automobile and steel exports, similar to revised measures Washington is discussing with Canada.",
       "publishedAt": "2026-08-22T00:16:57.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-week-ai-hits-wages-colorado-river-crisis-video",
-      "excerpt": "This week, Former IBM CEO Sam Palmisano discusses why companies may benefit from having a “Plan B” for AI implementation. And, AI may not be causing mass layoffs yet, but early data suggest it is already slowing wage growth in exposed occupations. Plus, Canada may have dodged Trump’s newest tariffs,",
-      "publishedAt": "2026-08-21T23:12:20.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2737,6 +2738,16 @@
       "publishedAt": "2025-01-25T10:30:00.000Z",
       "category": "finance",
       "source": "WSJ Markets"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "‘Appeasement is not a strategy’: how media is fighting back against Trump’s legal threats",
+      "url": "https://www.ft.com/content/ccd02363-0e4d-4fca-8bd1-46a153d19aee?syn-25a6b1a6=1",
+      "excerpt": "US president juggles multiple cases against news and entertainment groups",
+      "publishedAt": "2026-08-22T13:45:35.000Z",
+      "category": "finance",
+      "source": "Financial Times",
+      "summary": "英国《金融时报》报道，美国媒体正反击特朗普的诉讼威胁，称「绥靖不是策略」。作为总统，特朗普同时应对多起针对新闻和娱乐集团的案件。"
     },
     {
       "sourceId": "ft-companies",
@@ -2951,15 +2962,6 @@
       "url": "https://www.ft.com/content/65fb0ad1-e4d5-43be-9dcf-f7aba1bea3a6?syn-25a6b1a6=1",
       "excerpt": "New filings highlight iPhone maker’s global tax liabilities",
       "publishedAt": "2026-08-21T12:34:23.000Z",
-      "category": "finance",
-      "source": "Financial Times"
-    },
-    {
-      "sourceId": "ft-companies",
-      "title": "What is Jane Street?",
-      "url": "https://www.ft.com/content/ef1d7530-a514-4b18-9a0f-8843cac02929",
-      "excerpt": "The question is more important than the answer",
-      "publishedAt": "2026-08-21T12:30:04.000Z",
       "category": "finance",
       "source": "Financial Times"
     },
@@ -3505,12 +3507,23 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
-      "publishedAt": "2026-08-22T12:20:46.000Z",
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+      "publishedAt": "2026-08-22T15:44:57.000Z",
       "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "加拿大总理马克·卡尼称特朗普新一轮关税是“误判”。贸易谈判破裂后，卡尼在周六上午发表讲话，表示加拿大退出谈判桌是为了保护主权。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "publishedAt": "2026-08-22T15:00:27.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "加拿大总理卡尼在退出与特朗普的贸易谈判后面临关键考验。他需要向民众证明，退出白宫谈判的赌注值得承担后果。"
     },
     {
       "sourceId": "bbc-world",
@@ -3528,7 +3541,8 @@
       "excerpt": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
       "publishedAt": "2026-08-22T13:48:06.000Z",
       "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "缅甸一座寺院遭到袭击，造成14人死亡。据救援人员透露，平民当时正聚集参加冥想静修，而这处地点在短时间内遭到两次打击。"
     },
     {
       "sourceId": "bbc-world",
@@ -3550,19 +3564,20 @@
     },
     {
       "sourceId": "bbc-world",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "publishedAt": "2026-08-22T14:35:11.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "一名父亲带两个儿子攀登富士山，途中7岁儿子疲惫，男子将其独自留下，自己继续徒步。事件引发外界对儿童安全的关注。"
+    },
+    {
+      "sourceId": "bbc-world",
       "title": "One killed in sword attack at Swedish school",
       "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
       "excerpt": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
       "publishedAt": "2026-08-21T21:03:24.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "publishedAt": "2026-08-22T14:35:11.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3667,33 +3682,6 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Five missing after fire in Swiss Alpine town",
-      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-      "publishedAt": "2026-08-21T13:10:39.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-      "url": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
-      "publishedAt": "2026-08-21T16:20:55.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "excerpt": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-      "publishedAt": "2026-08-21T10:46:09.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
       "title": "These bookshops let Chinese readers question their country - now the doors are closing",
       "url": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
       "excerpt": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
@@ -3753,7 +3741,8 @@
       "excerpt": "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says.",
       "publishedAt": "2026-08-22T14:10:05.000Z",
       "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "在中国世界人形机器人运动会上，一款机器人跑出超过博尔特百米世界纪录的成绩。手机制造商荣耀宣称该机器人速度超越博尔特纪录。"
     },
     {
       "sourceId": "bbc-world",
@@ -3770,6 +3759,24 @@
       "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
       "excerpt": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
       "publishedAt": "2026-08-22T10:01:18.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Tornadoes touch down in New York and Delaware",
+      "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
+      "publishedAt": "2026-08-21T14:35:50.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
+      "url": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife.",
+      "publishedAt": "2026-08-21T13:32:28.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3825,7 +3832,8 @@
       "excerpt": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and the country’s prime minister, Mark Carney, has vowed to match them “dollar for dollar” after the collapse of trade talk",
       "publishedAt": "2026-08-22T14:04:57.000Z",
       "category": "politics",
-      "source": "The Guardian"
+      "source": "The Guardian",
+      "summary": "美国对加拿大部分商品加征50%关税，加总理卡尼誓言“一分对一分”回应。贸易谈判破裂或导致失业，但对传统盟友的最大影响预计是政治性的。"
     },
     {
       "sourceId": "guardian-world",
@@ -4045,12 +4053,13 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-      "excerpt": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
-      "publishedAt": "2026-08-22T13:35:43.000Z",
+      "title": "Mark Carney Speaks to Canadians After Trade Talks With U.S. Collapse",
+      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
+      "excerpt": "Prime Minister Mark Carney addressed Canadians on Saturday morning, hours after he ordered negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.",
+      "publishedAt": "2026-08-22T15:38:02.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "加拿大总理马克·卡尼在美加贸易谈判破裂数小时后向加拿大民众发表讲话。此前他下令谈判代表暂停与美国的贸易谈判，尽管特朗普总统施加了惩罚性关税。"
     },
     {
       "sourceId": "nyt-world",
@@ -4066,9 +4075,10 @@
       "title": "Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.",
       "url": "https://www.nytimes.com/2026/08/22/world/europe/italian-families-novel-anniversary-bajani.html",
       "excerpt": "Many Italians see themselves in Andrea Bajani’s latest novel, a portrayal of the family as a “little totalitarian system” shaped by psychological and physical violence.",
-      "publishedAt": "2026-08-22T09:17:14.000Z",
+      "publishedAt": "2026-08-22T15:22:29.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "意大利作家安德烈亚·巴贾尼最新小说将家庭描绘为“小型极权体系”，由心理与身体暴力塑造。许多意大利人在其中看到自己的影子。"
     },
     {
       "sourceId": "nyt-world",
@@ -4076,6 +4086,15 @@
       "url": "https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html",
       "excerpt": "One effect of moving back is that Archie and Lilibet now have the opportunity to be schooled as Britons. Here’s what that might look like.",
       "publishedAt": "2026-08-22T12:49:57.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+      "excerpt": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
+      "publishedAt": "2026-08-22T13:35:43.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4095,16 +4114,18 @@
       "excerpt": "The diplomat, John Coale, says his personalized approach gets results and matches the president’s style. Critics contend he is giving up too much to an authoritarian leader.",
       "publishedAt": "2026-08-22T14:38:44.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "特朗普特使约翰·科尔被曝用伏特加和低俗笑话开展对白俄罗斯外交。他称这种个性化方式有效且符合总统风格；批评者认为他向威权领导人让步过多。"
     },
     {
       "sourceId": "nyt-world",
       "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
       "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
       "excerpt": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.",
-      "publishedAt": "2026-08-22T05:13:58.000Z",
+      "publishedAt": "2026-08-22T15:26:17.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "加拿大与美国贸易战升级。旨在避免特朗普政府新关税的密集谈判陷入僵局，卡尼宣布暂停谈判。美国对加拿大关税及加拿大对美报复性关税将随之生效。"
     },
     {
       "sourceId": "nyt-world",
@@ -4148,15 +4169,6 @@
       "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
       "excerpt": "Palestinian and Israeli authorities offered divergent accounts of the incident, which came as settler violence has surged across the Israeli-occupied territory.",
       "publishedAt": "2026-08-21T18:32:08.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html",
-      "excerpt": "Recent surveys suggest the broader public views both of them negatively, especially in comparison to Harry’s brother, William, and his wife, Kate.",
-      "publishedAt": "2026-08-21T15:23:39.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4279,6 +4291,15 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return",
+      "url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html",
+      "excerpt": "Recent surveys suggest the broader public views both of them negatively, especially in comparison to Harry’s brother, William, and his wife, Kate.",
+      "publishedAt": "2026-08-21T15:23:39.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
       "url": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
       "excerpt": "China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.",
@@ -4301,15 +4322,6 @@
       "url": "https://www.nytimes.com/2026/08/21/world/europe/giorgia-meloni-rare-interview-takeaways.html",
       "excerpt": "The Italian prime minister is leading what will soon be the longest-lasting government in the country’s postwar history. She shows herself by turns funny and fierce in a rare interview.",
       "publishedAt": "2026-08-21T09:04:13.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Muslim Charity in Britain Faces Scrutiny for Possible Links to Hamas",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/muslim-charity-in-britain-possible-links-hamas.html",
-      "excerpt": "British regulators are investigating Al-Khair Foundation after U.S. prosecutors accused a man affiliated with the group of funding terrorism.",
-      "publishedAt": "2026-08-21T09:04:05.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4410,7 +4422,8 @@
       "excerpt": "美国总统特朗普声称计划与朝鲜领导人金正恩会面之际，朝鲜的回应释放出一个信号：如果要与美举行会谈，朝鲜希望获得最大程度的让步。",
       "publishedAt": "2026-08-22T14:07:00.000Z",
       "category": "politics",
-      "source": "DW 中文"
+      "source": "DW 中文",
+      "summary": "美国总统特朗普声称计划与朝鲜领导人金正恩会面。专家分析，手握更多筹码的朝鲜并不急于会谈；若要举行美朝会谈，朝鲜希望获得最大程度让步。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4419,7 +4432,8 @@
       "excerpt": "乌克兰迎来战时第五个独立日，德国外长再次访问基辅。他表示德国正在为支持乌克兰做好过冬准备而努力，并谴责俄罗斯对乌克兰不断升级的无人机和导弹攻势。",
       "publishedAt": "2026-08-22T13:59:00.000Z",
       "category": "politics",
-      "source": "DW 中文"
+      "source": "DW 中文",
+      "summary": "乌克兰迎来第五个战时独立日，德国外长再次访问基辅表达支持。他表示德国正为支持乌克兰过冬做准备，并谴责俄罗斯对乌克兰不断升级的无人机和导弹攻势。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4675,12 +4689,23 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
+      "excerpt": "Syria condemns attack in southwest as a 'flagrant violation of sovereignty' and a 'blatant breach of international law'.",
+      "publishedAt": "2026-08-22T14:37:40.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "以色列无人机袭击叙利亚西南部一辆“民用车辆”，造成多人受伤。叙利亚谴责这次袭击是“公然侵犯主权”和“明显违反国际法”。"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "What did war with the US reveal about Iran’s weapons capabilities?",
       "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
       "excerpt": "Iran says production is ongoing, but details will not be revealed during war conditions.",
       "publishedAt": "2026-08-22T14:19:06.000Z",
       "category": "politics",
-      "source": "Al Jazeera"
+      "source": "Al Jazeera",
+      "summary": "针对美国与伊朗战争暴露的武器能力问题，伊朗表示生产仍在继续，但战争条件下不会透露具体细节。外界持续关注其武器发展动向。"
     },
     {
       "sourceId": "aljazeera",
@@ -4698,7 +4723,8 @@
       "excerpt": "Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.",
       "publishedAt": "2026-08-22T13:44:02.000Z",
       "category": "politics",
-      "source": "Al Jazeera"
+      "source": "Al Jazeera",
+      "summary": "德国杯一场“高风险”比赛中发生球迷闯入球场事件，球迷和警察受伤。瓦尔德霍夫曼海姆与凯泽斯劳滕的比赛中断30分钟，约100人受伤，其中8人住院。"
     },
     {
       "sourceId": "aljazeera",
@@ -4886,15 +4912,6 @@
       "url": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
       "excerpt": "Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.",
       "publishedAt": "2026-08-22T07:41:10.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
-      "url": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
-      "excerpt": "Conflict with Israel derails Lebanon's economic recovery as inflation and consumer prices rise, the global lender says.",
-      "publishedAt": "2026-08-22T07:35:08.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
