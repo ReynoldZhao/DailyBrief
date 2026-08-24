@@ -47,24 +47,21 @@ export const ASSET_GROUP_ORDER: AssetGroup[] = [
 ];
 
 export const WATCHLIST: TickerDef[] = [
-  // === 美股蓝筹 + 大盘 ETF ===
-  { symbol: "SPY", displayName: "S&P 500 ETF", group: "us-equity" },
-  { symbol: "QQQ", displayName: "Nasdaq 100 ETF", group: "us-equity" },
-  { symbol: "AAPL", displayName: "Apple", group: "us-equity" },
-  { symbol: "MSFT", displayName: "Microsoft", group: "us-equity" },
+  { symbol: "VOO", displayName: "Vanguard S&P 500 ETF", group: "us-equity" },
+  { symbol: "SPY", displayName: "SPDR S&P 500 ETF", group: "us-equity" },
+  { symbol: "SNDK", displayName: "SanDisk", group: "us-equity" },
+  { symbol: "MU", displayName: "Micron", group: "us-equity" },
   { symbol: "NVDA", displayName: "Nvidia", group: "us-equity" },
-  { symbol: "GOOGL", displayName: "Alphabet", group: "us-equity" },
+  { symbol: "NBIS", displayName: "Nebius", group: "us-equity" },
+  { symbol: "AMD", displayName: "AMD", group: "us-equity" },
+  { symbol: "INTC", displayName: "Intel", group: "us-equity" },
+  { symbol: "CRM", displayName: "Salesforce", group: "us-equity" },
+  { symbol: "GOOG", displayName: "Alphabet", group: "us-equity" },
+  { symbol: "AAPL", displayName: "Apple", group: "us-equity" },
   { symbol: "TSLA", displayName: "Tesla", group: "us-equity" },
+  { symbol: "ORCL", displayName: "Oracle", group: "us-equity" },
   { symbol: "META", displayName: "Meta", group: "us-equity" },
-  // === 加密货币 ===
-  { symbol: "BTC-USD", displayName: "Bitcoin", group: "crypto" },
-  { symbol: "ETH-USD", displayName: "Ethereum", group: "crypto" },
-  { symbol: "SOL-USD", displayName: "Solana", group: "crypto" },
-  // === 中概 / 港股 ===
-  { symbol: "BABA", displayName: "阿里巴巴 (BABA)", displayNameEn: "Alibaba (BABA)", group: "china-equity" },
-  { symbol: "PDD", displayName: "拼多多 (PDD)", displayNameEn: "Pinduoduo (PDD)", group: "china-equity" },
-  { symbol: "JD", displayName: "京东 (JD)", displayNameEn: "JD.com (JD)", group: "china-equity" },
-  { symbol: "0700.HK", displayName: "腾讯控股 (0700.HK)", displayNameEn: "Tencent (0700.HK)", group: "china-equity" },
+  { symbol: "AMZN", displayName: "Amazon", group: "us-equity" },
   // === 商品 + 外汇 ===
   { symbol: "GC=F", displayName: "黄金期货", displayNameEn: "Gold Futures", group: "commodity-fx" },
   { symbol: "CL=F", displayName: "WTI 原油期货", displayNameEn: "WTI Crude Futures", group: "commodity-fx" },
