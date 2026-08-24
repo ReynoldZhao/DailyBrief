@@ -27,7 +27,7 @@ import { analyzeWatchlist } from "../lib/trading/runner";
 import { fetchCryptoFearGreed } from "../lib/trading/fear-greed";
 import { fetchCryptoGlobal } from "../lib/trading/coingecko";
 import { generateTradingCommentary } from "../lib/ai/trading-commentary";
-import type { TradingSection } from "../lib/ai/pipeline";
+import type { DailyReport, TradingSection } from "../lib/ai/pipeline";
 import { todayKey } from "../lib/utils";
 
 const OUTPUT_DIR = "daily_reports";
@@ -271,7 +271,28 @@ async function main() {
 
   console.log(`[daily] generating digest with ${getModelTag()}…`);
   const t0 = Date.now();
-  const { report } = await generateDailyReport(articles);
+  let report: DailyReport;
+  try {
+    ({ report } = await generateDailyReport(articles));
+  } catch (e) {
+    const msg = e instanceof Error ? e.message : String(e);
+    console.warn(`[daily] digest failed; writing degraded report: ${msg}`);
+    report = {
+      hero_headline: REPORT_LOCALE === "en"
+        ? "Daily source roundup (AI digest unavailable)"
+        : "今日多源资讯汇总（AI 总摘要暂不可用）",
+      daily_overview: REPORT_LOCALE === "en"
+        ? `Fetched ${articles.length} articles. The provider returned an empty or malformed digest, so the source lists below are preserved without an AI-generated overview.`
+        : `已抓取 ${articles.length} 篇资讯。模型返回的总摘要为空或格式不完整，因此本次保留完整信源列表，暂不提供 AI 总览。`,
+      tech_briefs: [],
+      finance_briefs: [],
+      politics_briefs: [],
+      editor_note: REPORT_LOCALE === "en"
+        ? "Degraded output: retry later to regenerate the AI digest."
+        : "降级输出：可稍后重试以补充 AI 总摘要。",
+      keywords: [],
+    };
+  }
   if (trading) report.trading = trading;
   console.log(`[daily] digest ready in ${((Date.now() - t0) / 1000).toFixed(1)}s`);
 
