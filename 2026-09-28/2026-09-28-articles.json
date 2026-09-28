@@ -6,80 +6,80 @@
       "title": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "excerpt": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "meta": "Python · ★ 42,506 · 🍴 4,990 · 📈 3,274 stars today",
+      "meta": "Python · ★ 42,646 · 🍴 4,995 · 📈 3,274 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "完全本地运行的开源 ElevenLabs 替代方案，支持声音克隆、音色设计、视频配音、听写转录与有声书生成，覆盖 646 种语言。适合对隐私和数据主权敏感的播客、有声内容创作者，以及需要自建语音管线的开发者。"
+      "summary": "完全本地运行的开源语音平台，定位为 ElevenLabs 的替代方案，支持语音克隆、语音设计、视频配音、听写、转写和有声书制作，覆盖 646 种语言。适合注重数据隐私、不想依赖云端付费 API 的开发者与内容团队自托管使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "excerpt": "The open-source app everyone uses to manage agents at work",
-      "meta": "TypeScript · ★ 91,980 · 🍴 15,829 · 📈 3,185 stars today",
+      "meta": "TypeScript · ★ 92,042 · 🍴 15,832 · 📈 3,185 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用于在工作场景中管理 AI agent 的开源应用，把分散的智能体集中到统一界面进行调度、监控与协作。适合已在团队里试水 agent 自动化的开发者与产品团队，用作日常任务的编排入口。"
+      "summary": "用于在工作中管理 AI agent 的开源应用，把散落各处的智能体集中到统一界面里调度和查看。团队可用它分配任务、跟踪 agent 的执行状态，适合已经接入多个 agent、需要把它们真正管起来的开发者与协作团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "excerpt": "Hindsight: Agent Memory That Learns",
-      "meta": "Python · ★ 40,101 · 🍴 5,362 · 📈 4,413 stars today",
+      "meta": "Python · ★ 40,270 · 🍴 5,396 · 📈 4,413 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 AI agent 提供可持续学习的记忆层，让智能体跨会话、跨任务保留并迭代历史经验，而不是每次从零开始。适合构建长期运行 agent、需要稳定上下文记忆的开发者。"
+      "summary": "面向 AI agent 的记忆层，主打记忆会随使用不断学习进化。它为 agent 提供可持久化的长期记忆，让其在多轮任务中保留上下文与经验，适合构建对话助手和自动化工作流的开发者，解决 agent 每次从零开始、缺乏积累的问题。"
     },
     {
       "sourceId": "github-trending",
       "title": "NawfalMotii79/PLFM_RADAR",
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "excerpt": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "meta": "PLSQL · ★ 25,652 · 🍴 5,876 · 📈 145 stars today",
+      "meta": "PLSQL · ★ 25,657 · 🍴 5,877 · 📈 145 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的低成本 10.5 GHz PLFM 相位阵列雷达系统，包含硬件设计与配套软件，可开展波束成形与目标探测实验。面向雷达教学、科研原型验证与业余无线电爱好者，显著降低相控阵雷达的入门成本。"
+      "summary": "开源的低成本 10.5 GHz PLFM 相控阵雷达系统，PLFM 指脉冲线性调频体制，配合相控阵实现波束电扫描。项目开放硬件与软件设计，适合雷达教学、科研实验和业余无线电爱好者，以远低于商用设备的成本搭建可改造的雷达原型。"
     },
     {
       "sourceId": "github-trending",
       "title": "cs341-illinois/coursebook",
       "url": "https://github.com/cs341-illinois/coursebook",
       "excerpt": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "meta": "TeX · ★ 2,320 · 🍴 223 · 📈 265 stars today",
+      "meta": "TeX · ★ 2,333 · 🍴 223 · 📈 265 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "伊利诺伊大学 CS 341 系统编程课程的开源入门教材，覆盖进程、内存、并发、网络等底层主题。适合计算机专业学生自学系统编程，也可供教师作为课程讲义与练习参考。"
+      "summary": "伊利诺伊大学 CS341 系统编程课程的开源入门教材，面向本科生讲解底层系统编程的核心知识。内容开放，可自由阅读与复用，适合自学操作系统和系统编程的读者作为参考，也方便其他高校教师改编为自家课程讲义。"
     },
     {
       "sourceId": "github-trending",
       "title": "byoungd/up",
       "url": "https://github.com/byoungd/up",
       "excerpt": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "meta": "JavaScript · ★ 64,482 · 🍴 6,502 · 📈 310 stars today",
+      "meta": "JavaScript · ★ 64,506 · 🍴 6,504 · 📈 310 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "韩先凯的个人进阶指南合集，围绕 AI 学习方法与工具、英语学习教程、职业成长等方向整理资料索引与经验总结。适合想系统入门 AI 与英语、需要现成学习路线的自学者。"
+      "summary": "个人整理的人生进阶指南类仓库，内容涵盖学习方法、职业规划，以及 AI 学习指南、英语学习教程等方向。以文档集合的形式沉淀经验，适合希望系统性规划自我提升、入门 AI 或重新学英语的读者当作索引查阅。"
     },
     {
       "sourceId": "github-trending",
       "title": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "excerpt": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "meta": "TypeScript · ★ 1,470 · 🍴 125 · 📈 781 stars today",
+      "meta": "TypeScript · ★ 1,488 · 🍴 125 · 📈 781 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "多 agent 编排框架，把 Claude Code 与 Codex 组合成一套统一系统协同运行，让不同编码 agent 分工、互相调用与校验。适合希望多个 AI 编码工具协作完成复杂任务的开发者。"
+      "summary": "多 agent 编排框架，把 Claude Code 与 Codex 组合成一套系统协同运行。它为不同的编码 agent 提供统一调度层，让它们分工完成开发任务，适合想同时利用多个 AI 编程工具、搭建自动化编码流水线的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "excerpt": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "meta": "TypeScript · ★ 21,033 · 🍴 1,791 · 📈 1,105 stars today",
+      "meta": "TypeScript · ★ 21,053 · 🍴 1,792 · 📈 1,105 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 AI agent 的办公套件运行时，在同一个 runtime 内提供电子表格、文档、幻灯片、画布、关系型数据表与 PDF 能力。适合把智能体接入表格与文档处理流程、需要可嵌入 Office 能力的团队。"
+      "summary": "面向 AI agent 的 Office 运行时，把电子表格、文档、幻灯片、画布、关系型数据表和 PDF 统一到同一个运行环境中。开发者可基于它把表格与文档能力接入智能体，用于自动化报表、文档生成和协同办公，替代零散拼接的办公组件。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -112,7 +112,7 @@
       "sourceId": "v2ex-hot",
       "title": "主账号都用的国区还是用外区 apple id??",
       "url": "https://www.v2ex.com/t/1245059",
-      "excerpt": "28 回复 · Apple 节点",
+      "excerpt": "29 回复 · Apple 节点",
       "publishedAt": "2026-09-27T12:03:31.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -211,7 +211,7 @@
       "sourceId": "v2ex-hot",
       "title": "继 opencode go 之后， commandcode goat 也搞欺诈",
       "url": "https://www.v2ex.com/t/1245312",
-      "excerpt": "12 回复 · 程序员 节点",
+      "excerpt": "13 回复 · 程序员 节点",
       "publishedAt": "2026-09-28T09:38:33.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -314,7 +314,7 @@
       "publishedAt": "2026-09-25T19:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 公布案例：Proaction 借助 Codex、GPT-Live-1 与 GPT-6 Astra 构建并运营现代车队管理业务，销售额提升 60%，并节省 75 小时以上工时。"
+      "summary": "OpenAI 案例显示，车队管理公司 Proaction 使用 Codex、GPT-Live-1 与 GPT-6 Astra 后，销售额提升60%，并节省逾75小时工时。"
     },
     {
       "sourceId": "openai-news",
@@ -323,8 +323,7 @@
       "excerpt": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "publishedAt": "2026-09-23T16:00:00.000Z",
       "category": "tech",
-      "source": "OpenAI News",
-      "summary": "OpenAI 发文纪念 OpenAI Academy 成立两周年，表示将继续把人工智能技能培训带给更多社区。"
+      "source": "OpenAI News"
     },
     {
       "sourceId": "openai-news",
@@ -579,6 +578,277 @@
       "source": "OpenAI News"
     },
     {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "excerpt": "",
+      "publishedAt": "2026-09-24T16:20:39.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog",
+      "summary": "DeepMind 发布 Gemini 3.8 Live，并引入 Live Avatar 实时虚拟形象功能。"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "publishedAt": "2026-09-23T16:00:57.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "excerpt": "",
+      "publishedAt": "2026-09-23T15:25:14.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "excerpt": "",
+      "publishedAt": "2026-09-15T17:05:57.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "excerpt": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "publishedAt": "2026-09-08T14:00:15.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "excerpt": "",
+      "publishedAt": "2026-09-03T15:02:08.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "excerpt": "",
+      "publishedAt": "2026-09-02T16:24:24.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "excerpt": "",
+      "publishedAt": "2026-09-02T16:18:31.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "excerpt": "",
+      "publishedAt": "2026-09-01T17:08:51.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "excerpt": "",
+      "publishedAt": "2026-08-27T16:11:32.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "excerpt": "Piloting the world's first double-blind AI evaluations",
+      "publishedAt": "2026-08-27T12:59:16.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "excerpt": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "publishedAt": "2026-08-26T17:01:00.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "excerpt": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "publishedAt": "2026-08-21T11:59:48.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "excerpt": "",
+      "publishedAt": "2026-08-13T17:04:18.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Putting sign language AI into users’ hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "excerpt": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "publishedAt": "2026-08-12T14:01:59.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "excerpt": "",
+      "publishedAt": "2026-08-06T15:06:15.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "excerpt": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "publishedAt": "2026-07-30T15:00:59.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "excerpt": "",
+      "publishedAt": "2026-07-29T16:02:10.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "excerpt": "",
+      "publishedAt": "2026-07-28T13:21:37.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "excerpt": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "publishedAt": "2026-07-22T13:38:54.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "excerpt": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "publishedAt": "2026-07-21T15:16:30.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "excerpt": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "publishedAt": "2026-07-17T15:00:11.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "excerpt": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "publishedAt": "2026-07-16T09:30:42.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "excerpt": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "publishedAt": "2026-07-13T12:37:28.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "excerpt": "",
+      "publishedAt": "2026-07-03T14:25:43.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "excerpt": "",
+      "publishedAt": "2026-06-30T16:02:40.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "excerpt": "",
+      "publishedAt": "2026-06-24T16:30:01.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "excerpt": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "publishedAt": "2026-06-16T21:29:50.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "excerpt": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "publishedAt": "2026-06-16T15:46:31.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "excerpt": "",
+      "publishedAt": "2026-06-10T16:24:11.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
       "sourceId": "huggingface-blog",
       "title": "Holo4: powering generalist computer-use agents",
       "url": "https://huggingface.co/blog/Hcompany/holo4",
@@ -586,7 +856,7 @@
       "publishedAt": "2026-09-28T09:44:05.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face 博客发布 Holo4，介绍其作为通用型电脑操作智能体（computer-use agent）的底层能力。原文未提供更多细节。"
+      "summary": "Hugging Face 博客发布 Holo4，称其用于驱动通用型计算机操作智能体，为这类代理提供底层能力支持。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -596,7 +866,7 @@
       "publishedAt": "2026-09-24T14:08:57.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face 博客介绍 Liquid AI 的 LFM2.5-VL-DSpark，主题为加速视觉语言模型。原文未提供更多细节。"
+      "summary": "LiquidAI 在 Hugging Face 博客介绍 LFM2.5-VL-DSpark，该方法用于加速视觉语言模型。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -606,7 +876,7 @@
       "publishedAt": "2026-09-23T18:41:40.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face 博客发布教程，介绍如何使用 NVIDIA Warp 与 MjWarp 加速机器人仿真及学习工作流。"
+      "summary": "英伟达发布教程，介绍如何使用 Warp 与 MjWarp 加速机器人仿真与学习工作流。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -860,7 +1130,7 @@
       "meta": "👍 209",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "探究视频生成模型这一典型世界模型是否具备物体永久性与固体性等人类认知先验，并训练其在遮挡与交互场景中维持对物体持续存在的表征，以提升世界模型的物理推理能力。"
+      "summary": "物体永久性与固态性是人类认知先验的核心。论文考察视频生成模型这类世界模型是否具备该能力，并探索如何在训练中注入此类先验，以提升世界模型的物理智能与推理表现。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -871,7 +1141,7 @@
       "meta": "👍 78",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "发现大语言模型存在根本性的线性特性：来自不同文本流的输入被线性组合后，模型输出为各自下一 token 分布的叠加，称为线性叠加现象。该发现揭示了 LLM 内部表征的可加结构，为理解与操控模型行为提供新视角。"
+      "summary": "论文发现 LLM 虽含高度非线性组件，却表现出基本线性：将来自不同文本流的输入线性组合后，模型输出是各条流 next-token 分布的叠加，作者称之为线性叠加现象，为理解与操控 LLM 内部表示提供新视角。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -882,7 +1152,7 @@
       "meta": "👍 24",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对具身智能体难以定位声源方向并结合视觉线索推理的问题，构建空间音频理解的任务与评测基准，提出 OmniEcho 模型统一建模声音方位与视觉信息，评估并提升智能体在具身场景中的空间音频理解能力。"
+      "summary": "人类能轻松定位声源方向并与视觉线索融合推理，具身智能体却难以做到，且缺乏相应评估与建模方法。论文提出 OmniEcho，构建具身场景下的空间音频理解基准与模型，让智能体结合空间听觉与视觉进行推理。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -893,7 +1163,7 @@
       "meta": "👍 20",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "现有语言世界模型通过预测环境观测来辅助智能体，但重建高熵、依赖执行结果的工具返回代价高昂。作者提出 Agent-Editing 世界模型，转而建模对状态的编辑操作，避免重复重建，提升长程任务中智能体的规划与执行效率。"
+      "summary": "现有 LLM agent 的语言世界模型通过预测环境观测来辅助决策，但重建高熵、依赖执行结果的工具返回代价高昂。论文提出 Agent-Editing World Model，将世界建模从生成观测转为对状态的编辑式更新，以提升长程任务表现。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -904,7 +1174,7 @@
       "meta": "👍 19",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对长上下文自注意力的二次复杂度问题，块稀疏注意力虽可降本，但传统块选择需为所有 query-block 对打分，仍是二次开销。本文提出对数线性复杂度的块选择机制，在保持稀疏注意力效果的同时显著降低长序列建模成本。"
+      "summary": "块稀疏注意力可缓解自注意力的二次开销，但传统块选择需为所有 query-block 对打分，仍是二次复杂度，成为瓶颈。论文提出对数线性复杂度的块稀疏注意力方法，降低块选择成本，支撑更长上下文的高效建模。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -915,7 +1185,7 @@
       "meta": "👍 19",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "Rufus-Air 是基于 GLM-4.5-Air-Base（106B-A12B）的开源可复现后训练方案，串联 SFT、推理 RL、代码 RL、指令遵循 RL、通用/代码/搜索智能体与 RLHF 共八个阶段，并公开数据、奖励设计与基础设施细节。"
+      "summary": "论文开源 Rufus-Air，在 GLM-4.5-Air-Base（106B-A12B）上给出可复现的后训练配方，串联 SFT、推理 RL、代码 RL、指令遵循 RL、通用/代码/搜索 Agent 与 RLHF 共八个阶段，并公开数据、奖励设计与基础设施细节。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -926,7 +1196,7 @@
       "meta": "👍 14",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 Qwen-Planner-Agent 闭环 AI-for-AI 框架，让 AI 既是开发对象又是构建下一代 AI 的参与者，面向真实移动端规划智能体，通过闭环迭代自动生成数据并优化策略，提升移动场景下的规划与执行表现。"
+      "summary": "随着 LLM 从内容生成走向工程与科学工作流，论文提出 Qwen-Planner-Agent，一套闭环的 AI-for-AI 框架，让 AI 既是开发对象又是构建者，面向真实移动端 planner agent，通过自动反馈迭代优化规划能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -937,7 +1207,7 @@
       "meta": "👍 12",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "大模型已能解决诸多高难数学问题，但如何让其发现「有意思」的数学问题仍待探索。本文研究训练 LLM 自主提出有价值猜想与问题的能力，探索以兴趣度为导向的筛选与训练方法，推动数学知识的规模化扩展。"
+      "summary": "LLM 已能求解甚至攻克长期未解的数学问题，但判断「什么是有趣的数学」仍依赖人类。论文研究如何让模型学习发现有趣的数学问题与猜想，从而以自动化方式扩大数学知识的探索规模。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -948,7 +1218,7 @@
       "meta": "👍 11",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "任务与运动规划（TAMP）中离散决策与几何、运动学、动力学约束紧密耦合。本文利用跨问题实例的规律性，将编码智能体用于泛化 TAMP，通过生成可复用代码而非逐题求解，提升对全新实例的泛化能力。"
+      "summary": "任务与运动规划（TAMP）中离散决策与几何、运动学、动力学约束紧密耦合，泛化 TAMP 需利用跨实例的规律。论文将 coding agent 引入该问题，通过生成并复用代码求解新实例，提升泛化规划能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -959,7 +1229,7 @@
       "meta": "👍 11",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "介绍 PUBG Ally：一个可自主推理、行动并以语音与玩家协同作战的具身智能体队友。它需在瞬息万变的战场中感知环境、在实时约束下决策并与人自然交流，展示了具身智能体在复杂多人游戏环境中的落地探索。"
+      "summary": "论文提出 PUBG Ally，一个面向 PUBG: BATTLEGROUNDS 的具身智能体，可作为支持语音的队友与玩家并肩作战，自主推理与行动。它需在持续变化的游戏环境中实时感知响应，同时兼顾低延迟语音交互与战术决策。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -970,7 +1240,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "Jev 是经强化学习训练的校准决策模型，以选择题、二元判断和评分形式回答自然语言提问。相比逐条标准生成式评判或固定标签分类器，单次调用即可输出校准决策，可作为 AI 对齐失效的零样本检测器，兼顾速度与成本。"
+      "summary": "现有对齐失败检测器多为生成式评判，每条准则都需一次解码，或如 Llama Guard 那样每次调用只给固定标签。论文提出经强化学习训练的决策模型 Jev，输出选择、二值判断与分数，作为零样本对齐失败检测器，更快且成本更低。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -981,7 +1251,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对深度搜索智能体的角色耦合与上下文累积问题，提出 IterSynth 框架，将规划、证据使用与答案综合解耦到不同角色，并通过迭代合成数据训练，缓解单策略负担与上下文膨胀，提升复杂查询的检索与作答质量。"
+      "summary": "ReAct 式深度搜索 agent 存在两个缺陷：角色耦合，单一策略同时负责规划、证据使用与综合；上下文累积，历史不断膨胀。论文提出 IterSynth，通过角色解耦与迭代合成重构流程，提升复杂查询的分解、检索与答案综合能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -992,7 +1262,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "对 Jev 模型的功能、应用与生态进行数据驱动分析。Jev 是快速低成本的决策模型，以选项、二元判断与打分回答自然语言问题。本文统计其公开生态中的使用方式，并考察社区关注度与项目分布之间的关系。"
+      "summary": "Jev 是一个快速、低成本的决策模型，用选项、二值判断与分数回答自然语言问题。论文对其公开生态进行数据驱动分析，考察 Jev 在各应用中的实际使用方式，以及公众关注度与项目分布之间的关系。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1003,7 +1273,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 RGBD20K 大规模 RGB-D 语义分割数据集，具备更广的语义类别空间与高质量标注，旨在推动更鲁棒、更通用的 RGB-D 分割研究，为多模态融合与深度信息利用提供评测基准。"
+      "summary": "论文提出 RGBD20K，一个类别丰富、标注高质量的大规模 RGB-D 语义分割数据集，具备扩展的语义空间等特性，旨在推动更鲁棒、更通用的 RGB-D 语义分割研究，并为该任务提供新的评测基准。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1014,7 +1284,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "指出现有架构设计仅依赖参数量与 FLOPs，无法刻画深度宽度、注意力头等结构差异。本文提出神经谱容量这一指标，仅凭网络规格即可度量与设计架构，为预算约束下的容量分配与模型压缩提供新依据。"
+      "summary": "论文指出现代 Transformer 的设计与压缩本质是预算约束下的容量分配，而参数量与 FLOPs 无法刻画深度-宽度、注意力头等结构差异。作者提出神经谱容量（Neural Spectral Capacity），仅凭网络规格即可度量并指导架构设计。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1025,7 +1295,7 @@
       "meta": "👍 7",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对智能体跨信任边界带来的攻击面——不可信输入、特权指令、长期记忆与特权工具调用，提出信任原生的智能体操作系统 AgentKernel，在系统层实现权限隔离与可信执行，防止恶意载荷经模型输入引发越权行为。"
+      "summary": "AI agent 频繁跨越信任边界：摄入不可信内容、与特权指令混合、把中间信念写入长期记忆并调用特权工具，形成可被恶意载荷利用的攻击面。论文提出 AgentKernel，一个信任原生的智能体操作系统，在系统层面隔离与管控这些风险。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1036,7 +1306,18 @@
       "meta": "👍 7",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 World Action Agent，让通用 VLM 不再仅预测约束或编写程序，而是通过「世界动作预演」在可交互的世界模型中试演动作，把视觉语言先验转化为机器人操作策略，提升真实操作任务的泛化与成功率。"
+      "summary": "现有系统或间接使用 VLM 预测约束、编写程序，或只给其场景视图而非可行动的世界。论文提出 World Action Agent，通过 world action rehearsal 让 VLM 在动作空间中演练，直接把通用知识与空间推理用于机器人操作。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs",
+      "url": "https://huggingface.co/papers/2609.31590",
+      "excerpt": "Existing multi-agent benchmarks primarily test in competitive settings, short-horizon interactions under 20 steps, or simply aggregate individual performance, failing to isolate and highlight genuine collaboration capabilities of LLM-based agents. We introduce AgentWorld, a benchmark of 100 human-an",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "meta": "👍 6",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "现有多智能体基准多评测竞争场景、20 步以内的短程交互，或仅聚合个体表现，难以体现真正的协作能力。论文提出 AgentWorld，包含 100 个人工设计任务，用于评测多智能体 LLM 的长程协作，分离并凸显协作能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1047,18 +1328,7 @@
       "meta": "👍 6",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "工具调用智能体输出异构，混合结构化调用与面向用户的自然语言总结，标准 GRPO 会把同一优势广播到所有 token，导致跨片段信用错配。SLCA-GRPO 引入分段级信用分配，区分工具调用与文本总结的贡献，提升 RL 训练效果。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs",
-      "url": "https://huggingface.co/papers/2609.31590",
-      "excerpt": "Existing multi-agent benchmarks primarily test in competitive settings, short-horizon interactions under 20 steps, or simply aggregate individual performance, failing to isolate and highlight genuine collaboration capabilities of LLM-based agents. We introduce AgentWorld, a benchmark of 100 human-an",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "meta": "👍 5",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "现有多智能体基准多聚焦竞争场景、20 步以内短程交互或简单聚合个体成绩，难以隔离并衡量真正的协作能力。AgentWorld 提供含 100 个人工标注任务的长程协作基准，用于系统评测多智能体 LLM 的协作与规划能力。"
+      "summary": "工具调用 agent 的输出混合结构化工具调用与自然语言总结，这种异质性使 GRPO 等标准 on-policy RL 把同一优势不加区分地广播到所有 token，造成跨片段信用错误归因。论文提出 SLCA-GRPO，按片段分配信用以缓解该问题。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1069,7 +1339,7 @@
       "meta": "👍 5",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "世界动作模型（WAM）借助预训练视频生成器为机器人控制提供视觉与运动先验，但训练时需预测稠密未来帧，重复建模大量不变内容。DeltaWAM 改为预测帧间增量，仅建模变化部分，降低计算冗余并用于双臂操作任务。"
+      "summary": "世界动作模型（WAM）借助预训练视频生成器把视觉与运动先验迁移到机器人控制，但现有方法训练时预测密集未来帧，反复建模几乎不变的内容并使动作条件耦合。论文提出 DeltaWAM，改为预测帧间增量，用于双臂操作任务。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1179,7 +1449,7 @@
       "publishedAt": "2026-09-28T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 9 月 28 日刊汇总当日动态，涉及 Muse 发布宣言、OpenAI 暂停训练，以及算力交易等议题。"
+      "summary": "TLDR AI 本期要点包括：Muse 发布宣言、OpenAI 暂停训练，以及算力交易相关消息。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1189,7 +1459,7 @@
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 9 月 25 日刊汇总：ChatGPT Pro Max、Muse 实时虚拟形象，以及 DeepSeek 年度经常性收入达 10 亿美元等消息。"
+      "summary": "TLDR AI 本期要点包括：ChatGPT Pro Max 发布、Muse 实时虚拟形象，以及 DeepSeek 年度经常性收入达到10亿美元。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1199,7 +1469,7 @@
       "publishedAt": "2026-09-24T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 9 月 24 日刊汇总：Gemini 文本转语音、Claude 相关的新型酶研究，以及谷歌的私密记忆功能等消息。"
+      "summary": "TLDR AI 本期要点包括：Gemini 文本转语音、Claude 相关的新型酶研究，以及 Google 的私密记忆功能。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1632,7 +1902,7 @@
       "publishedAt": "2026-09-25T23:14:41.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space 播客对话 OpenRouter 的 Alex Atallah 与 AMP 的 Anjney Midha，回顾 OpenRouter 从种子轮起步、到被 Stripe 以 70 亿美元收购的历程。"
+      "summary": "Latent Space 对话 OpenRouter 的 Alex Atallah 与 AMP 的 Anjney Midha。文中回顾2023年业界普遍认为前沿模型实验室仅有一两家，如今已达数十家，并提及 Stripe 以70亿美元收购其中最知名的一家。"
     },
     {
       "sourceId": "latent-space",
@@ -1642,7 +1912,7 @@
       "publishedAt": "2026-09-25T05:37:00.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space 的 AINews 在新闻较清淡的一天介绍其幕后工作，并宣布相关业务正式对外开放。"
+      "summary": "Latent Space 发布 AINews 内容，在新闻较少的一天介绍其幕后工作，并宣布相关业务已对外开放。"
     },
     {
       "sourceId": "latent-space",
@@ -1652,7 +1922,7 @@
       "publishedAt": "2026-09-25T01:30:57.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space 介绍 Runway 的 WorldPrompt 及实时世界模型的工程实现。其 GWM Worlds 2 通过持久上下文与定时动作驱动世界模型，实时生成视频和音频。"
+      "summary": "Runway 介绍 WorldPrompt 与实时世界生成技术。其 GWM Worlds 2 通过持久上下文与定时动作控制世界模型，实时生成视频与音频。"
     },
     {
       "sourceId": "latent-space",
@@ -1662,7 +1932,7 @@
       "publishedAt": "2026-09-24T15:03:16.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space 客座文章指出，在科学研究中「思考」的成本已变得低廉，而「执行」依然昂贵；这种不对称正在较为隐蔽地重塑研究型公司的运作方式。"
+      "summary": "Latent Space 客座文章指出，科学研究中「思考」的成本已大幅下降，而「动手执行」依然昂贵，这一不对称正在重塑研究型公司的运作方式。"
     },
     {
       "sourceId": "latent-space",
@@ -1672,7 +1942,7 @@
       "publishedAt": "2026-09-24T08:12:59.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space 的 AINews 汇总 Meta Connect 2026 大会内容，涉及 Muse 智能眼镜、语音与视频功能，以及 Charm。"
+      "summary": "Latent Space 的 AINews 汇总 Meta Connect 2026 大会内容，涵盖 Muse 智能眼镜、语音、视频以及 Charm。"
     },
     {
       "sourceId": "latent-space",
@@ -1817,7 +2087,7 @@
       "publishedAt": "2026-09-28T08:06:22.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT Technology Review 发文探讨 AI 智能体失控时由谁承担责任。文章提到，近几个月出现一连串由 AI 智能体发起的网络攻击，其中 7 月涉及 OpenAI 等事件。"
+      "summary": "《麻省理工科技评论》发文探讨人工智能代理失控时的责任归属问题。文章提到近几个月出现一连串由人工智能代理发起的网络攻击，并以7月的一起事件为例展开讨论。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1827,7 +2097,7 @@
       "publishedAt": "2026-09-25T09:16:25.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "据美国国防部预算申请，五角大楼计划未来五年投入 3030 万美元升级测谎技术，项目名为 Polygraph+（又称 Polygraph Next），重点开发基于人工智能的评分算法。"
+      "summary": "美国国防部预算申请显示，政府计划在未来五年投入3030万美元改进测谎技术。该项目名为 Polygraph+，又称 Polygraph Next，重点研发基于人工智能的评分算法。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1910,7 +2180,7 @@
       "category": "tech",
       "meta": "@DhravyaShah · 63.2K 粉丝 · 112.4K 阅 · 608 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "团队停掉「公司大脑」harness 两周后，应客户和用户建议将整套多人在线协作 harness 开源。推文重点在分享设计思路：如何让多人同时接入同一套 AI 记忆与工作流，属于工程实践与架构拆解，而非产品发布。"
+      "summary": "博主宣布开源自家「公司大脑」的多人在线协作框架（multi-player harness）。该 harness 两周前刚下线、相关人员已转岗到其他产品，但客户和外部用户建议开源，于是把设计成果公开，供自建 agent 协作系统的人参考。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1921,7 +2191,7 @@
       "category": "tech",
       "meta": "@chamath · 2.4M 粉丝 · 97.8K 阅 · 551 赞 · 44 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "作者 6 月就断言 vibe coding 已死、AI 投入必须算 ROI。本文解释什么是 AI ROI，以及为什么大量 AI 收益体现在能力提升而非 GDP 数据里，属于偏宏观的商业模式分析。"
+      "summary": "Chamath 延续六月「vibe coding 已死」的判断，讨论 AI 投入火热却看不到生产率提升的现象：AI ROI 正从加分项变成必需品，并解释这类回报为何难以体现在 GDP 数据中，属于偏宏观的分析框架。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1932,7 +2202,7 @@
       "category": "tech",
       "meta": "@saylor · 5.2M 粉丝 · 96.2K 阅 · 661 赞 · 98 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "一篇观点输出：AI 会让个人和公司的产能远超今天，因此「自由创造、融资、拥有、交换」的权利变得比以往更重要。本质是把 AI 生产力叙事接到产权与制度议题上，不含具体工具或案例。"
+      "summary": "Saylor 谈数字经济下的「繁荣处方」：AI 会让个人和企业产出远超当下，因此自由创造、融资、拥有与交换的权利比以往更重要。属于宏观立场表达，非具体工具或教程。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1943,7 +2213,7 @@
       "category": "tech",
       "meta": "@0xMovez · 36.4K 粉丝 · 78.9K 阅 · 737 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "用 Opus 5.5 做 motion design 的完整课程。多数人产出千篇一律：渐变背景居中文字、整体淡入、结尾贴 logo，原因是没给模型参考素材。课程围绕参考图、分镜与工作流展开。"
+      "summary": "一份用 Opus 5.5 搭建动效设计工作室的完整课程。博主指出多数人产出千篇一律：渐变背景居中文字、统一淡入、结尾放 logo，根因是不给参考素材、不喂风格约束。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1954,7 +2224,7 @@
       "category": "tech",
       "meta": "@trq212 · 354.7K 粉丝 · 62.7K 阅 · 965 赞 · 52 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "讲 Claude Code 中如何分配 effort：新模型能在不破坏 prompt cache 的前提下响应 effort 设置，作者据此集中回答用户对这个参数的常见疑问，属于实操答疑类内容。"
+      "summary": "围绕 Claude Code 中「如何分配思考投入（effort）」的常见提问做说明：新版 Claude 模型能响应 effort 设置，且不会破坏 prompt cache，属于官方视角的实用技巧拆解。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1965,18 +2235,7 @@
       "category": "tech",
       "meta": "@joedaroo · 12.2K 粉丝 · 41.2K 阅 · 517 赞 · 76 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "安全从业者从内部视角复盘一系列 AI 事故，认为圈内讨论多来自外部猜测，缺少亲历者声音，问题的根源也不只是 sandbox 隔离。属于第一手安全经验与反思。"
-    },
-    {
-      "sourceId": "attentionvc-ai",
-      "title": "We built a 20x faster Grok bot",
-      "url": "https://x.com/cerebras/status/2103506859709858175",
-      "excerpt": "Written by @milksandmatcha and @0xSero A personal assistant should save you time and effort. Over the past few weeks, we’ve been obsessively testing AI personal assistants on everyday tasks, from",
-      "publishedAt": "2026-09-25T15:28:11.000Z",
-      "category": "tech",
-      "meta": "@cerebras · 76.6K 粉丝 · 37.6K 阅 · 554 赞 · 28 转",
-      "source": "X 推文 (AttentionVC)",
-      "summary": "Cerebras 团队连续数周在真实日常任务上测试 AI 个人助理，基于 Grok 搭出一个速度约 20 倍的 bot，并记录延迟与体验差异。属于推理硬件厂商的性能实测分享。"
+      "summary": "一位安全从业者从内部视角复盘接连发生的 AI 事故，认为外界分析多为隔岸观火，缺少亲历者观察，并强调问题根源不只在沙箱隔离机制本身。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1987,7 +2246,83 @@
       "category": "tech",
       "meta": "@lilykeilani011 · 3.0K 粉丝 · 10.7K 阅 · 521 赞 · 71 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "一篇关于 AI 艺术的论战式观点文：社交平台上反 AI 生成艺术的声音极其显眼，评论区动辄成百条差评，作者认为很多人只是不愿承认自己其实喜欢。属于文化讨论而非教程。"
+      "summary": "作者分析社交媒体上对 AI 生成艺术的强烈抵制：相关帖子下往往满是负面评论，她认为很多人反感的不是 AI 本身，而是不愿承认自己其实欣赏这些作品。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "European Stocks Steady as Bond Rout Offsets UK Homebuilder Gains",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/european-stocks-gain-as-uk-homebuilders-surge-on-loan-plan",
+      "excerpt": "European stocks closed steady on Monday, ceding their earlier gains after 10-year Treasury yields climbed above 5.25%.",
+      "publishedAt": "2026-09-28T07:30:17.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Rising Rates Pressure Property Values as REIT M&A Deals Pick Up",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-28/rising-rates-pressure-property-values-video",
+      "excerpt": "The multifamily, industrial and office sectors are likely to set this year's pace for global real estate capital flows while AI fuels the surge in data center transaction volume. Rick Romano, Head of Global Real Estate Securities at PGIM Real Estate breaks down his outlook for the market. (Source: B",
+      "publishedAt": "2026-09-28T15:41:23.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "利率上升对房地产估值构成压力。PGIM 房地产全球房地产证券主管 Rick Romano 表示，多户住宅、工业与办公板块料将主导今年全球房地产资本流动节奏，人工智能则推动数据中心交易量激增。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Goldman Says High-Yield Debt Deluge Is Overwhelming Investors",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/goldman-says-high-yield-debt-deluge-is-overwhelming-investors",
+      "excerpt": "A surge of corporate bond supply in the US high-yield market is starting to overwhelm debt investors, pushing risk premiums to the highest level in five months, according to Goldman Sachs Group Inc.’s head of credit strategy.",
+      "publishedAt": "2026-09-28T15:36:31.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "高盛信用策略主管表示，美国高收益债市场公司债供给激增，正开始令债券投资者不堪重负，风险溢价已升至五个月来最高水平。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Nasdaq 100 Tumbles as ‘Three-Headed Monster’ Forces Pullback",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/us-stocks-decline-as-middle-east-stalemate-pushes-oil-higher",
+      "excerpt": "Technology stocks tumbled on Monday as fading hopes of a breakthrough in the Middle East and rising inflation concerns weighed on sentiment.",
+      "publishedAt": "2026-09-28T11:15:52.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stocks Fall as US-Iran Standoff Boosts Bond Yields: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-27/stock-market-today-dow-s-p-live-updates",
+      "excerpt": "A standoff between the US and Iran boosted oil prices, dragging down stocks and bonds on concerns that elevated energy costs could fuel inflation and trigger further Federal Reserve rate hikes.",
+      "publishedAt": "2026-09-27T22:15:52.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "SEC Sends ‘Critical’ Reminder on Hard-to-Value Private Assets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/sec-sends-critical-reminder-on-hard-to-value-private-assets",
+      "excerpt": "Wall Street’s main financial regulator is spurring the financial industry to put more effort into valuing private assets as those holdings become harder to sell and investor redemption requests surge.",
+      "publishedAt": "2026-09-28T15:25:15.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "美国证券交易委员会敦促金融业加大对私募资产的估值投入。随着这类资产愈发难以出售、投资者赎回请求激增，估值难度上升。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "AI Skeptic Rajiv Jain Embraces the Tech Trade He Once Shunned",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/ai-skeptic-rajiv-jain-embraces-the-tech-trade-he-once-shunned",
+      "excerpt": "A year after calling the artificial-intelligence boom the “dot-com bubble on steroids,” Rajiv Jain has abruptly reversed course.",
+      "publishedAt": "2026-09-28T15:25:08.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "曾将人工智能热潮称为「打了兴奋剂的互联网泡沫」的 Rajiv Jain，在一年后突然转向，开始拥抱他此前回避的科技股交易。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "UBS Faces 9% Profit Hit From Swiss Capital Plan, RBC Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/ubs-faces-9-profit-hit-from-latest-swiss-capital-plan-rbc-says",
+      "excerpt": "The latest capital reform proposal adopted by Swiss lawmakers would cut UBS Group AG’s earnings per share by 9%, RBC analysts estimated.",
+      "publishedAt": "2026-09-28T14:20:03.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2000,22 +2335,13 @@
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "US Stocks Fall as Yields Climb to Multi-Year Highs: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-27/stock-market-today-dow-s-p-live-updates",
-      "excerpt": "A standoff between the US and Iran boosted oil prices, dragging down stocks and bonds on concerns that elevated energy costs could fuel inflation and trigger further Federal Reserve rate hikes.",
-      "publishedAt": "2026-09-27T22:15:52.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
       "title": "Strapped Consumers Quit Bowling, Dave & Busters in Blow to Debt",
       "url": "https://www.bloomberg.com/news/articles/2026-09-28/strapped-consumers-quit-bowling-dave-busters-in-blow-to-debt",
       "excerpt": "American households are getting pickier when it comes to what they spend on, creating winners and losers in the consumer industry.",
       "publishedAt": "2026-09-28T15:13:27.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国消费者在支出选择上愈发挑剔，削减保龄球馆和Dave & Buster's等娱乐消费，消费行业因此出现赢家与输家。"
+      "summary": "美国消费者支出愈发挑剔，缩减保龄球等娱乐消费，Dave & Buster's 客流受挫并波及相关债务，消费行业由此分出赢家与输家。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2025,7 +2351,7 @@
       "publishedAt": "2026-09-28T15:09:53.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "知情人士称，英国在周日挫败一起未遂袭击之前，已对一处曾用于美军打击伊朗的英国空军基地加强安保，并密切监控威胁上升。"
+      "summary": "知情人士称，在英国一处用于美国对伊朗实施打击的空军基地周日遭未遂袭击被挫败前，英国正密切监控该基地所受威胁上升，安保级别已提高。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2044,7 +2370,7 @@
       "publishedAt": "2026-09-28T15:00:50.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "贝莱德全球固定收益投资组合经理Chi Chen讨论债券收益率急升。全球债券收益率自2007年以来首次逼近4%，美国30年期国债收益率触及高位。"
+      "summary": "贝莱德全球固定收益投资组董事总经理兼投资组合经理 Chi Chen 讨论债券收益率大幅上升。全球债券收益率有望自 2007 年以来首次触及 4%，美国 30 年期国债收益率升至阶段高位。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2063,7 +2389,7 @@
       "publishedAt": "2026-09-28T14:55:13.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美伊僵局推高油价，能源成本上升引发通胀担忧并拖累美股与债券，标普500指数下跌。市场担忧美联储进一步加息，Metlife投资管理首席市场策略师Drew Matus作出分析。"
+      "summary": "美国与伊朗僵局推高油价，市场担忧能源成本高企加剧通胀并促使美联储进一步加息，标普 500 指数与债券走低。MetLife Investment Management 首席市场策略师 Drew Matus 就此分析。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2082,7 +2408,7 @@
       "publishedAt": "2026-09-28T14:52:13.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "英伟达董事会批准在现有股票回购计划下追加1500亿美元授权，剩余总授权额增至2350亿美元，公司股价上涨。澳大利亚矿业股下跌。"
+      "summary": "英伟达董事会批准在现有回购计划下追加 1500 亿美元授权，剩余授权总额增至 2350 亿美元，公司股价上涨；澳大利亚矿业股下滑。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2092,7 +2418,7 @@
       "publishedAt": "2026-09-28T14:37:46.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Sweetgreen股价周一上涨，此前富国银行上调该股评级，理由是该沙拉连锁从今夏寄生虫疫情中的恢复速度快于预期。"
+      "summary": "富国银行上调 Sweetgreen 评级，称这家沙拉连锁企业从今夏寄生虫疫情中的复苏快于预期，其股价周一上涨，抹平疫情造成的跌幅。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2101,8 +2427,7 @@
       "excerpt": "Merlin Entertainments Ltd.’s debt has tumbled amid investor concern that a recent £657 million ($871 million) refinancing fails to address the firm’s longer-term challenges.",
       "publishedAt": "2026-09-28T14:34:26.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "乐高乐园母公司Merlin Entertainments的债券大幅下跌，投资者担忧其6.57亿英镑（8.71亿美元）的再融资未能解决公司长期挑战。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2110,71 +2435,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-28/options-are-pricing-in-muted-moves-for-us-stocks-on-midterm-vote",
       "excerpt": "While the upcoming US midterm election is one of the biggest events left on the market’s calendar for this year, derivatives pricing indicates traders aren’t expecting especially big moves in stock benchmarks.",
       "publishedAt": "2026-09-28T14:33:00.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "衍生品定价显示，交易员预计美国中期选举不会令股指出现大幅波动，尽管该选举是今年市场日历上剩余的重大事件之一。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Security Raised at UK-US Base Before Terror Incident",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-28/security-raised-at-uk-us-base-before-terror-incident-video",
-      "excerpt": "The UK was closely monitoring increased threats to a British airbase used in US strikes against Iran before an attempted attack was foiled on Sunday, people familiar with the matter said. (Source: Bloomberg)",
-      "publishedAt": "2026-09-28T14:32:25.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "知情人士称，英国在周日挫败一起未遂袭击之前，已对一处曾用于美军打击伊朗的英国空军基地加强安保，并密切监控威胁上升。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Tata Trusts Propose Restructuring of Tata Sons to Avoid Listing",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-28/tata-trusts-propose-restructuring-of-tata-sons-to-avoid-listing",
-      "excerpt": "Tata Trusts, the majority shareholder of Tata Sons Pvt., proposed that the holding company of India’s biggest conglomerate merge with two of its unlisted units to stave off a listing order.",
-      "publishedAt": "2026-09-28T13:11:15.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "UBS Faces 9% Profit Hit From Latest Swiss Capital Plan, RBC Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-28/ubs-faces-9-profit-hit-from-latest-swiss-capital-plan-rbc-says",
-      "excerpt": "The latest capital reform proposal adopted by Swiss lawmakers would cut UBS Group AG’s earnings per share by 9%, RBC analysts estimated.",
-      "publishedAt": "2026-09-28T14:20:03.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Negative Power Price Hours Fall in Germany, Bucking EU Trend",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-28/negative-power-price-hours-fall-in-germany-bucking-eu-trend",
-      "excerpt": "Germany’s negative power prices are heading for their first annual decline in four years, as stronger electricity demand and changes to renewable-energy support curb periods of oversupply.",
-      "publishedAt": "2026-09-28T07:37:40.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Odd Lots: Why Building a Crosswalk in LA Is Kafkaesque",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-28/odd-lots-why-building-a-crosswalk-in-la-is-kafkaesque-video",
-      "excerpt": "On this episode of the Odd Lots podcast recorded live at the Vermont Hollywood theater, real estate developer Zach Lasry joins Joe Weisenthal and Tracy Alloway to talk about homebuilding in LA and the Kafkaesque process of getting a crosswalk built in the city. (Source: Bloomberg)",
-      "publishedAt": "2026-09-28T13:58:18.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "US Stocks Drop as Middle East Stalemate Pushes Oil Higher",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-28/us-stocks-decline-as-middle-east-stalemate-pushes-oil-higher",
-      "excerpt": "US stocks declined on Monday as fading hopes of a breakthrough in the Middle East and rising inflation concerns weighed on sentiment.",
-      "publishedAt": "2026-09-28T11:15:52.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "24/7 Stock Trading Is About to Test Financial Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-28/24-7-stock-trading-is-about-to-test-financial-markets",
-      "excerpt": "For years, an overwhelming share of trading in US stocks happened on the big exchanges during daytime market hours. Powerhouses like the New York Stock Exchange and Nasdaq Inc. offered after-hours trading sessions, but activity was generally light.",
-      "publishedAt": "2026-09-28T13:46:21.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2366,7 +2626,7 @@
       "publishedAt": "2026-09-28T14:46:38.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "SpaceX的星舰火箭首次进入轨道，尽管出现发动机故障。此次成功发射对马斯克是里程碑，该系统对其赢得更多NASA合同及实现载人航天至关重要。"
+      "summary": "SpaceX 的星舰火箭首次进入轨道，尽管出现发动机故障。此次成功发射对马斯克而言是里程碑，该系统对赢得更多 NASA 合同及实现载人航天至关重要。"
     },
     {
       "sourceId": "ft-companies",
@@ -2589,10 +2849,10 @@
       "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
       "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
       "excerpt": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-      "publishedAt": "2026-09-28T15:08:50.000Z",
+      "publishedAt": "2026-09-28T15:37:59.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "英国财政大臣John Healey在预算公布前发表讲话称，能给年轻人提供的最好东西是工作而非福利。他同时面临降低政府借贷成本的压力。"
+      "summary": "英国财政大臣 John Healey 在下次预算案前发表讲话称，能为年轻人提供的最好东西是工作而非福利。他目前面临压低政府借贷成本的压力。"
     },
     {
       "sourceId": "bbc-business",
@@ -2601,8 +2861,7 @@
       "excerpt": "Chancellor John Healey will set out his plans for UK taxes in October.",
       "publishedAt": "2026-09-28T14:29:49.000Z",
       "category": "finance",
-      "source": "BBC Business",
-      "summary": "英国财政大臣John Healey将于10月公布预算，列明其税收计划。BBC就此梳理预算的含义以及可能包含的内容。"
+      "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
@@ -3155,6 +3414,16 @@
     },
     {
       "sourceId": "bbc-world",
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+      "publishedAt": "2026-09-28T14:57:31.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "韩国就朝鲜战俘问题召见乌克兰外交官。泽连斯基上周透露，乌克兰已将两名被俘朝鲜士兵送往韩国，首尔称此事本应保密。"
+    },
+    {
+      "sourceId": "bbc-world",
       "title": "Plan for controversial Sydney data centre scrapped after push-back",
       "url": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
@@ -3494,7 +3763,7 @@
       "publishedAt": "2026-09-28T15:00:37.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚昆士兰州反腐败委员会一年内收到逾6000宗投诉，仅对其中20宗展开调查。专家表示，针对警方等政府部门的投诉「几乎不可能」获得独立调查。"
+      "summary": "澳大利亚昆士兰州反腐败委员会一年内收到逾6000件投诉，仅对其中20件展开调查。专家称，针对警方等政府部门的投诉获得独立调查的可能性「几乎为零」。"
     },
     {
       "sourceId": "guardian-world",
@@ -3504,7 +3773,7 @@
       "publishedAt": "2026-09-28T15:00:36.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳洲联储预计周二将进行今年第四次加息，专家警告若再加息一次甚至两次，将对房地产市场造成「毁灭性」冲击，且无助于缓解住房负担能力问题。"
+      "summary": "澳大利亚储备银行预计周二加息，为今年第四次。专家警告，若再有第五甚至第六次加息，将「摧毁」房地产市场，且无助于缓解住房负担能力问题。"
     },
     {
       "sourceId": "guardian-world",
@@ -3535,13 +3804,22 @@
     },
     {
       "sourceId": "guardian-world",
+      "title": "Staff killed and wounded in Russian strike on Kyiv’s science academy",
+      "url": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
+      "excerpt": "Moscow’s jet-powered drones pummel Ukraine’s capital in switch to daytime attacks Europe live – latest updates Russia has hit the National Academy of Sciences in central Kyiv with a drone, killing at least one person in the latest daytime attack on Ukraine’s capital. Flames tore through the historic",
+      "publishedAt": "2026-09-28T15:16:50.000Z",
+      "category": "politics",
+      "source": "The Guardian",
+      "summary": "俄罗斯以喷气动力无人机袭击基辅市中心的乌克兰国家科学院，造成至少1人死亡、多人受伤。俄方近期转为对基辅实施日间袭击。"
+    },
+    {
+      "sourceId": "guardian-world",
       "title": "Heat pump sales soar across Europe after states cut electricity taxes, data shows",
       "url": "https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows",
       "excerpt": "EU to push members to cut tax rate below duty on gas, with 10%+ surge in sales also put down to fallout from Iran war Business live – latest updates Europe live – latest updates Sales of residential heat pumps jumped across Europe in the first six months of the year as the Iran war sent oil and gas ",
       "publishedAt": "2026-09-28T13:53:52.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "数据显示，欧洲多国下调电力税后，今年上半年住宅热泵销量普遍增长逾10%，伊朗战争的影响也是推动因素之一；欧盟将推动成员国把电力税率降至低于天然气税的水平。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -3567,15 +3845,6 @@
       "url": "https://www.theguardian.com/world/2026/sep/28/same-struggles-exhibition-highlights-lives-sami-people-sweden",
       "excerpt": "Show at Kin Museum in Kiruna marks handover of long-awaited report on abuses committed by the state against the Indigenous people From a detailed multi-perspectival drawing of reindeer to written accounts of belief systems and childbirth, Johan Turi’s work offers unparalleled insight into his life a",
       "publishedAt": "2026-09-28T04:00:24.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
-      "title": "Serbia’s populist president Aleksandar Vučić resigns to run for prime minister",
-      "url": "https://www.theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister",
-      "excerpt": "Vučić not allowed to seek third presidential term and election will test his grip on rule after widespread protests Serbia’s populist president, Aleksandar Vučić, has resigned to pursue an attempt to become prime minister in an early parliamentary election that will test his firm rule in the Balkan ",
-      "publishedAt": "2026-09-27T19:09:38.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
@@ -3638,7 +3907,7 @@
       "title": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It",
       "url": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
       "excerpt": "The administration is brokering deals in a notoriously corrupt industry, including one with a company that the United States deems a security threat.",
-      "publishedAt": "2026-09-28T13:01:55.000Z",
+      "publishedAt": "2026-09-28T13:01:56.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -3659,7 +3928,7 @@
       "publishedAt": "2026-09-28T14:03:29.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "教皇利奥在法国发表讲话，赞扬欧洲民主与战后推动大陆统一的努力；专家认为这是对特朗普屡次抨击欧洲领导人的批评，双方再度出现分歧。"
+      "summary": "教皇利奥在法国发表讲话，赞扬欧洲战后推动大陆统一的努力。专家认为，此番言论是对特朗普屡次抨击欧洲领导人的批评。"
     },
     {
       "sourceId": "nyt-world",
@@ -3669,7 +3938,7 @@
       "publishedAt": "2026-09-28T14:28:57.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "巴西将于下月举行大选，这个拉美最大国家正采取措施防范美国可能干预其民主进程，特朗普的下一步动向成为本次选举的最大悬念。"
+      "summary": "巴西将于下月举行大选，这个拉美最大国家正采取措施，保护本国民主制度免受美国可能的干预，特朗普的下一步举动成为选情最大疑问。"
     },
     {
       "sourceId": "nyt-world",
@@ -3751,7 +4020,7 @@
       "publishedAt": "2026-09-28T15:11:06.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "该条为英国皇家空军费尔福德基地恐怖阴谋事件的最新进展报道，原文未提供更多摘要细节。"
+      "summary": "这是关于英国皇家空军费尔福德基地恐怖袭击阴谋的滚动报道最新条目，原文未提供进一步细节。"
     },
     {
       "sourceId": "nyt-world",
@@ -3761,7 +4030,7 @@
       "publishedAt": "2026-09-28T14:08:00.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "在美国支持下，贸易商进入委内瑞拉一处金矿城镇并达成交易，但相关投资迄今未能改善当地采矿业低迷的境况。"
+      "summary": "在美国支持下，交易商进入委内瑞拉一座金矿城镇并达成交易，但迄今该笔投资未能改善当地采矿业面临的严峻境况。"
     },
     {
       "sourceId": "nyt-world",
@@ -3780,7 +4049,7 @@
       "publishedAt": "2026-09-28T14:19:19.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美国驻华大使珀杜表示，特朗普曾向中国国家主席习近平提出出售武器，白宫随后称美国没有此类军售计划。"
+      "summary": "美国驻华大使珀杜称，特朗普曾向中国领导人习近平提出出售武器。白宫随后表示，美国并无此类军售计划。"
     },
     {
       "sourceId": "nyt-world",
@@ -3997,7 +4266,7 @@
       "publishedAt": "2026-09-28T14:30:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "慕尼黑获定为德国奥运申办城市后，德国乒乓球名将蒂莫·波尔表示愿为申奥出力，尤其希望借助其在中国的高人气开展助阵活动。"
+      "summary": "在慕尼黑被定为德国奥运申办城市后，德国乒乓球名将蒂莫·波尔表示愿为申奥出力，尤其希望在拥有高人气的中国开展相关活动。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4007,7 +4276,7 @@
       "publishedAt": "2026-09-28T14:07:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "对于上周在华盛顿举行的中美峰会，《法兰克福汇报》评论称习近平的反制措施已驯服率先发起关税战的特朗普；《商报》则称特朗普讨好威权政治、贬损盟友的行为正在危害美国及民主阵营安全。"
+      "summary": "就上周在华盛顿举行的中美峰会，《法兰克福汇报》评论称习近平的反制措施已驯服率先发起关税战的特朗普；《商报》称特朗普讨好威权、贬损盟友，正危害美国及民主阵营安全。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4263,13 +4532,33 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
+      "url": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
+      "excerpt": "Tehran condemns 'unfounded and malicious speculation'; British FM vows to 'act against the proxies of Iran'.",
+      "publishedAt": "2026-09-28T15:29:48.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "伊朗否认与空军基地遭袭事件有关，德黑兰谴责相关说法是「毫无根据且恶意的猜测」；英国外交大臣表示将「打击伊朗的代理人」。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "SpaceX’s showpiece Starship rocket reaches orbit for first time",
+      "url": "https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss",
+      "excerpt": "Founder Elon Musk's rocket, the largest ever built, is meant to carry NASA mission to moon and beyond.",
+      "publishedAt": "2026-09-28T15:25:38.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "马斯克旗下SpaceX的星舰火箭首次进入轨道。该火箭为史上最大火箭，计划用于执行美国宇航局登月及更远深空任务。"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound",
       "url": "https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss",
       "excerpt": "Israeli national security minister declares 'we are the owners of the place in Al-Aqsa' amid heavily guarded incursion.",
       "publishedAt": "2026-09-28T14:03:55.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "以色列国家安全部长本-格维尔与数百名以色列人闯入阿克萨清真寺大院，在严密护卫下宣称「我们是阿克萨这地方的主人」。"
+      "summary": "以色列国家安全部长本-格维尔与数百名以色列人在重兵护卫下闯入阿克萨清真寺建筑群，并宣称「我们是阿克萨的主人」。"
     },
     {
       "sourceId": "aljazeera",
@@ -4279,7 +4568,7 @@
       "publishedAt": "2026-09-28T14:03:47.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "运动员批评亚洲运动会组织与后勤失误频发，包括被送往错误场馆、18小时内连打三场比赛以及住宿危机，令本届赛事备受诟病。"
+      "summary": "运动员批评亚运会组织与后勤混乱，包括被送至错误场馆、18小时内进行三场比赛以及住宿危机，令本届赛事备受诟病。"
     },
     {
       "sourceId": "aljazeera",
@@ -4288,8 +4577,7 @@
       "excerpt": "World's top three beef producers witness a decline in cattle stocks because of rising input costs, droughts and biology.",
       "publishedAt": "2026-09-28T13:56:03.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "全球前三大牛肉生产国牛群数量下降，原因包括投入成本上涨、干旱及生物学因素，外界担忧全球肉类危机正在逼近。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4298,8 +4586,7 @@
       "excerpt": "The continued blockade of the Strait of Hormuz has forced Iraq to look for alternatives to export its oil.",
       "publishedAt": "2026-09-28T13:53:28.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "霍尔木兹海峡持续受阻，伊拉克被迫寻找替代路线出口石油，以维持其石油出口收入。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4308,8 +4595,7 @@
       "excerpt": "How 29 newly independent nations challenged the imperial order and awakened the power of the Global South.",
       "publishedAt": "2026-09-28T13:41:07.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "半岛电视台原创节目回顾万隆会议：29个新独立国家如何挑战帝国秩序，并唤醒全球南方的力量。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4470,24 +4756,6 @@
       "url": "https://www.aljazeera.com/sports/2026/9/28/azeez-al-shaair-honours-slain-palestinian-sisters-despite-nfl-sanctions?traffic_source=rss",
       "excerpt": "The Houston Texans linebacker wore eye black with the names of slain sisters Lana, 12, and Bana, eight.",
       "publishedAt": "2026-09-28T09:12:45.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Mapping Israel’s 300 checkpoints: Where they are and how they work",
-      "url": "https://www.aljazeera.com/news/2026/9/28/mapping-israels-300-checkpoints-where-they-are-and-how-they-work?traffic_source=rss",
-      "excerpt": "Israel has shut occupied West Bank crossings for a week, further restricting Palestinian movement and holy site access.",
-      "publishedAt": "2026-09-28T08:50:37.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
-      "url": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss",
-      "excerpt": "Five men were arrested on suspicion of the 'preparation of a terrorist act' near RAF Fairford, a base used by the US.",
-      "publishedAt": "2026-09-28T08:44:16.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
